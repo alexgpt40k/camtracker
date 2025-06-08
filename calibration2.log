@@ -1,0 +1,4 @@
+2025-06-01 19:17:56 [INFO] Start calibration2 for monitor 1
+2025-06-01 19:17:56 [ERROR] Calibration2 failed for monitor 1: name 'self' is not defined
+2025-06-01 19:27:01 [INFO] Start calibration2 for monitor 0
+2025-06-01 19:27:01 [INFO] Starting calibration2 for monitor 0
