@@ -1,0 +1,1062 @@
+2025-05-02 20:40:55,139 INFO:Найдено мониторов: 2
+2025-05-02 20:54:51,783 INFO:Инициализация FaceLandmarker
+2025-05-02 20:54:51,804 INFO:Main: opening video capture
+2025-05-02 20:55:00,693 INFO:Creating window 640x480
+2025-05-02 20:55:00,720 INFO:Creating canvas
+2025-05-02 20:55:00,721 INFO:Initializing CameraApp
+2025-05-02 20:55:00,721 DEBUG:CameraApp.__init__ called
+2025-05-02 20:55:00,721 DEBUG:Created img_id: 1
+2025-05-02 20:55:00,723 DEBUG:Created close_id at (620, 20)
+2025-05-02 20:55:00,723 INFO:Starting update scheduling
+2025-05-02 20:55:00,723 DEBUG:schedule_update called, delay=30
+2025-05-02 20:55:00,723 DEBUG:Scheduled update with after_id=after#0
+2025-05-02 20:55:00,723 INFO:Entering mainloop
+2025-05-02 20:55:00,767 DEBUG:update called
+2025-05-02 20:55:02,026 DEBUG:Frame updated on canvas
+2025-05-02 20:55:02,026 DEBUG:schedule_update called, delay=30
+2025-05-02 20:55:02,026 DEBUG:Scheduled update with after_id=after#1
+2025-05-02 20:55:02,057 DEBUG:update called
+2025-05-02 20:55:02,075 DEBUG:Frame updated on canvas
+2025-05-02 20:55:02,075 DEBUG:schedule_update called, delay=30
+2025-05-02 20:55:02,076 DEBUG:Scheduled update with after_id=after#2
+2025-05-02 20:55:02,105 DEBUG:update called
+2025-05-02 20:55:02,115 DEBUG:Frame updated on canvas
+2025-05-02 20:55:02,115 DEBUG:schedule_update called, delay=30
+2025-05-02 20:55:02,115 DEBUG:Scheduled update with after_id=after#3
+2025-05-02 20:55:02,147 DEBUG:update called
+2025-05-02 20:55:02,157 DEBUG:Frame updated on canvas
+2025-05-02 20:55:02,157 DEBUG:schedule_update called, delay=30
+2025-05-02 20:55:02,157 DEBUG:Scheduled update with after_id=after#4
+2025-05-02 20:55:02,188 DEBUG:update called
+2025-05-02 20:55:02,197 DEBUG:Frame updated on canvas
+2025-05-02 20:55:02,197 DEBUG:schedule_update called, delay=30
+2025-05-02 20:55:02,197 DEBUG:Scheduled update with after_id=after#5
+2025-05-02 20:55:02,230 DEBUG:update called
+2025-05-02 20:55:02,237 DEBUG:Frame updated on canvas
+2025-05-02 20:55:02,237 DEBUG:schedule_update called, delay=30
+2025-05-02 20:55:02,237 DEBUG:Scheduled update with after_id=after#6
+2025-05-02 20:55:02,268 DEBUG:update called
+2025-05-02 20:55:02,278 DEBUG:Frame updated on canvas
+2025-05-02 20:55:02,278 DEBUG:schedule_update called, delay=30
+2025-05-02 20:55:02,278 DEBUG:Scheduled update with after_id=after#7
+2025-05-02 20:55:02,309 DEBUG:update called
+2025-05-02 20:55:02,320 DEBUG:Frame updated on canvas
+2025-05-02 20:55:02,320 DEBUG:schedule_update called, delay=30
+2025-05-02 20:55:02,320 DEBUG:Scheduled update with after_id=after#8
+2025-05-02 20:55:02,350 DEBUG:update called
+2025-05-02 20:55:02,361 DEBUG:Frame updated on canvas
+2025-05-02 20:55:02,361 DEBUG:schedule_update called, delay=30
+2025-05-02 20:55:02,361 DEBUG:Scheduled update with after_id=after#9
+2025-05-02 20:55:02,394 DEBUG:update called
+2025-05-02 20:55:02,410 DEBUG:Frame updated on canvas
+2025-05-02 20:55:02,411 DEBUG:schedule_update called, delay=30
+2025-05-02 20:55:02,411 DEBUG:Scheduled update with after_id=after#10
+2025-05-02 20:55:02,456 DEBUG:update called
+2025-05-02 20:55:02,490 DEBUG:Frame updated on canvas
+2025-05-02 20:55:02,490 DEBUG:schedule_update called, delay=30
+2025-05-02 20:55:02,490 DEBUG:Scheduled update with after_id=after#11
+2025-05-02 20:55:02,533 DEBUG:update called
+2025-05-02 20:55:02,541 DEBUG:Frame updated on canvas
+2025-05-02 20:55:02,541 DEBUG:schedule_update called, delay=30
+2025-05-02 20:55:02,541 DEBUG:Scheduled update with after_id=after#12
+2025-05-02 20:55:02,580 DEBUG:update called
+2025-05-02 20:55:02,590 DEBUG:Frame updated on canvas
+2025-05-02 20:55:02,590 DEBUG:schedule_update called, delay=30
+2025-05-02 20:55:02,590 DEBUG:Scheduled update with after_id=after#13
+2025-05-02 20:55:02,620 DEBUG:update called
+2025-05-02 20:55:02,630 DEBUG:Frame updated on canvas
+2025-05-02 20:55:02,630 DEBUG:schedule_update called, delay=30
+2025-05-02 20:55:02,630 DEBUG:Scheduled update with after_id=after#14
+2025-05-02 20:55:02,660 DEBUG:update called
+2025-05-02 20:55:02,682 DEBUG:Frame updated on canvas
+2025-05-02 20:55:02,682 DEBUG:schedule_update called, delay=30
+2025-05-02 20:55:02,682 DEBUG:Scheduled update with after_id=after#15
+2025-05-02 20:55:02,718 DEBUG:update called
+2025-05-02 20:55:02,726 DEBUG:Frame updated on canvas
+2025-05-02 20:55:02,726 DEBUG:schedule_update called, delay=30
+2025-05-02 20:55:02,726 DEBUG:Scheduled update with after_id=after#16
+2025-05-02 20:55:02,764 DEBUG:update called
+2025-05-02 20:55:02,772 DEBUG:Frame updated on canvas
+2025-05-02 20:55:02,772 DEBUG:schedule_update called, delay=30
+2025-05-02 20:55:02,772 DEBUG:Scheduled update with after_id=after#17
+2025-05-02 20:55:02,810 DEBUG:update called
+2025-05-02 20:55:02,820 DEBUG:Frame updated on canvas
+2025-05-02 20:55:02,820 DEBUG:schedule_update called, delay=30
+2025-05-02 20:55:02,820 DEBUG:Scheduled update with after_id=after#18
+2025-05-02 20:55:02,857 DEBUG:update called
+2025-05-02 20:55:02,864 DEBUG:Frame updated on canvas
+2025-05-02 20:55:02,864 DEBUG:schedule_update called, delay=30
+2025-05-02 20:55:02,864 DEBUG:Scheduled update with after_id=after#19
+2025-05-02 20:55:02,902 DEBUG:update called
+2025-05-02 20:55:02,912 DEBUG:Frame updated on canvas
+2025-05-02 20:55:02,912 DEBUG:schedule_update called, delay=30
+2025-05-02 20:55:02,912 DEBUG:Scheduled update with after_id=after#20
+2025-05-02 20:55:02,948 DEBUG:update called
+2025-05-02 20:55:02,956 DEBUG:Frame updated on canvas
+2025-05-02 20:55:02,956 DEBUG:schedule_update called, delay=30
+2025-05-02 20:55:02,956 DEBUG:Scheduled update with after_id=after#21
+2025-05-02 20:55:02,995 DEBUG:update called
+2025-05-02 20:55:03,004 DEBUG:Frame updated on canvas
+2025-05-02 20:55:03,004 DEBUG:schedule_update called, delay=30
+2025-05-02 20:55:03,004 DEBUG:Scheduled update with after_id=after#22
+2025-05-02 20:55:03,041 DEBUG:update called
+2025-05-02 20:55:03,052 DEBUG:Frame updated on canvas
+2025-05-02 20:55:03,052 DEBUG:schedule_update called, delay=30
+2025-05-02 20:55:03,052 DEBUG:Scheduled update with after_id=after#23
+2025-05-02 20:55:03,087 DEBUG:update called
+2025-05-02 20:55:03,097 DEBUG:Frame updated on canvas
+2025-05-02 20:55:03,099 DEBUG:schedule_update called, delay=30
+2025-05-02 20:55:03,099 DEBUG:Scheduled update with after_id=after#24
+2025-05-02 20:55:03,133 DEBUG:update called
+2025-05-02 20:55:03,142 DEBUG:Frame updated on canvas
+2025-05-02 20:55:03,142 DEBUG:schedule_update called, delay=30
+2025-05-02 20:55:03,142 DEBUG:Scheduled update with after_id=after#25
+2025-05-02 20:55:03,181 DEBUG:update called
+2025-05-02 20:55:03,191 DEBUG:Frame updated on canvas
+2025-05-02 20:55:03,191 DEBUG:schedule_update called, delay=30
+2025-05-02 20:55:03,191 DEBUG:Scheduled update with after_id=after#26
+2025-05-02 20:55:03,226 DEBUG:update called
+2025-05-02 20:55:03,238 DEBUG:Frame updated on canvas
+2025-05-02 20:55:03,238 DEBUG:schedule_update called, delay=30
+2025-05-02 20:55:03,238 DEBUG:Scheduled update with after_id=after#27
+2025-05-02 20:55:03,272 DEBUG:update called
+2025-05-02 20:55:03,280 DEBUG:Frame updated on canvas
+2025-05-02 20:55:03,280 DEBUG:schedule_update called, delay=30
+2025-05-02 20:55:03,280 DEBUG:Scheduled update with after_id=after#28
+2025-05-02 20:55:03,318 DEBUG:update called
+2025-05-02 20:55:03,327 DEBUG:Frame updated on canvas
+2025-05-02 20:55:03,327 DEBUG:schedule_update called, delay=30
+2025-05-02 20:55:03,327 DEBUG:Scheduled update with after_id=after#29
+2025-05-02 20:55:03,363 DEBUG:update called
+2025-05-02 20:55:03,372 DEBUG:Frame updated on canvas
+2025-05-02 20:55:03,372 DEBUG:schedule_update called, delay=30
+2025-05-02 20:55:03,372 DEBUG:Scheduled update with after_id=after#30
+2025-05-02 20:55:03,409 DEBUG:update called
+2025-05-02 20:55:03,448 DEBUG:Frame updated on canvas
+2025-05-02 20:55:03,448 DEBUG:schedule_update called, delay=30
+2025-05-02 20:55:03,448 DEBUG:Scheduled update with after_id=after#31
+2025-05-02 20:55:03,486 DEBUG:update called
+2025-05-02 20:55:03,497 DEBUG:Frame updated on canvas
+2025-05-02 20:55:03,497 DEBUG:schedule_update called, delay=30
+2025-05-02 20:55:03,497 DEBUG:Scheduled update with after_id=after#32
+2025-05-02 20:55:03,532 DEBUG:update called
+2025-05-02 20:55:03,541 DEBUG:Frame updated on canvas
+2025-05-02 20:55:03,541 DEBUG:schedule_update called, delay=30
+2025-05-02 20:55:03,541 DEBUG:Scheduled update with after_id=after#33
+2025-05-02 20:55:03,578 DEBUG:update called
+2025-05-02 20:55:03,584 DEBUG:Frame updated on canvas
+2025-05-02 20:55:03,584 DEBUG:schedule_update called, delay=30
+2025-05-02 20:55:03,584 DEBUG:Scheduled update with after_id=after#34
+2025-05-02 20:55:03,624 DEBUG:update called
+2025-05-02 20:55:03,659 DEBUG:Frame updated on canvas
+2025-05-02 20:55:03,659 DEBUG:schedule_update called, delay=30
+2025-05-02 20:55:03,659 DEBUG:Scheduled update with after_id=after#35
+2025-05-02 20:55:03,701 DEBUG:update called
+2025-05-02 20:55:03,722 DEBUG:Frame updated on canvas
+2025-05-02 20:55:03,722 DEBUG:schedule_update called, delay=30
+2025-05-02 20:55:03,722 DEBUG:Scheduled update with after_id=after#36
+2025-05-02 20:55:03,762 DEBUG:update called
+2025-05-02 20:55:03,771 DEBUG:Frame updated on canvas
+2025-05-02 20:55:03,771 DEBUG:schedule_update called, delay=30
+2025-05-02 20:55:03,771 DEBUG:Scheduled update with after_id=after#37
+2025-05-02 20:55:03,807 DEBUG:update called
+2025-05-02 20:55:03,817 DEBUG:Frame updated on canvas
+2025-05-02 20:55:03,817 DEBUG:schedule_update called, delay=30
+2025-05-02 20:55:03,817 DEBUG:Scheduled update with after_id=after#38
+2025-05-02 20:55:03,853 DEBUG:update called
+2025-05-02 20:55:03,861 DEBUG:Frame updated on canvas
+2025-05-02 20:55:03,861 DEBUG:schedule_update called, delay=30
+2025-05-02 20:55:03,861 DEBUG:Scheduled update with after_id=after#39
+2025-05-02 20:55:03,899 DEBUG:update called
+2025-05-02 20:55:03,930 DEBUG:Frame updated on canvas
+2025-05-02 20:55:03,930 DEBUG:schedule_update called, delay=30
+2025-05-02 20:55:03,930 DEBUG:Scheduled update with after_id=after#40
+2025-05-02 20:55:03,960 DEBUG:update called
+2025-05-02 20:55:03,972 DEBUG:Frame updated on canvas
+2025-05-02 20:55:03,972 DEBUG:schedule_update called, delay=30
+2025-05-02 20:55:03,972 DEBUG:Scheduled update with after_id=after#41
+2025-05-02 20:55:04,002 DEBUG:update called
+2025-05-02 20:55:04,011 DEBUG:Frame updated on canvas
+2025-05-02 20:55:04,011 DEBUG:schedule_update called, delay=30
+2025-05-02 20:55:04,011 DEBUG:Scheduled update with after_id=after#42
+2025-05-02 20:55:04,042 DEBUG:update called
+2025-05-02 20:55:04,052 DEBUG:Frame updated on canvas
+2025-05-02 20:55:04,052 DEBUG:schedule_update called, delay=30
+2025-05-02 20:55:04,052 DEBUG:Scheduled update with after_id=after#43
+2025-05-02 20:55:04,083 DEBUG:update called
+2025-05-02 20:55:04,092 DEBUG:Frame updated on canvas
+2025-05-02 20:55:04,092 DEBUG:schedule_update called, delay=30
+2025-05-02 20:55:04,092 DEBUG:Scheduled update with after_id=after#44
+2025-05-02 20:55:04,124 DEBUG:update called
+2025-05-02 20:55:04,134 DEBUG:Frame updated on canvas
+2025-05-02 20:55:04,134 DEBUG:schedule_update called, delay=30
+2025-05-02 20:55:04,134 DEBUG:Scheduled update with after_id=after#45
+2025-05-02 20:55:04,175 DEBUG:update called
+2025-05-02 20:55:04,184 DEBUG:Frame updated on canvas
+2025-05-02 20:55:04,184 DEBUG:schedule_update called, delay=30
+2025-05-02 20:55:04,184 DEBUG:Scheduled update with after_id=after#46
+2025-05-02 20:55:04,220 DEBUG:update called
+2025-05-02 20:55:04,231 DEBUG:Frame updated on canvas
+2025-05-02 20:55:04,231 DEBUG:schedule_update called, delay=30
+2025-05-02 20:55:04,231 DEBUG:Scheduled update with after_id=after#47
+2025-05-02 20:55:04,265 DEBUG:update called
+2025-05-02 20:55:04,274 DEBUG:Frame updated on canvas
+2025-05-02 20:55:04,274 DEBUG:schedule_update called, delay=30
+2025-05-02 20:55:04,274 DEBUG:Scheduled update with after_id=after#48
+2025-05-02 20:55:04,310 DEBUG:update called
+2025-05-02 20:55:04,331 DEBUG:Frame updated on canvas
+2025-05-02 20:55:04,331 DEBUG:schedule_update called, delay=30
+2025-05-02 20:55:04,331 DEBUG:Scheduled update with after_id=after#49
+2025-05-02 20:55:04,372 DEBUG:update called
+2025-05-02 20:55:04,381 DEBUG:Frame updated on canvas
+2025-05-02 20:55:04,381 DEBUG:schedule_update called, delay=30
+2025-05-02 20:55:04,381 DEBUG:Scheduled update with after_id=after#50
+2025-05-02 20:55:04,418 DEBUG:update called
+2025-05-02 20:55:04,426 DEBUG:Frame updated on canvas
+2025-05-02 20:55:04,426 DEBUG:schedule_update called, delay=30
+2025-05-02 20:55:04,426 DEBUG:Scheduled update with after_id=after#51
+2025-05-02 20:55:04,464 DEBUG:update called
+2025-05-02 20:55:04,473 DEBUG:Frame updated on canvas
+2025-05-02 20:55:04,473 DEBUG:schedule_update called, delay=30
+2025-05-02 20:55:04,473 DEBUG:Scheduled update with after_id=after#52
+2025-05-02 20:55:04,495 INFO:on_closing called
+2025-05-02 20:55:04,495 DEBUG:Cancelling after_id=after#52
+2025-05-02 20:55:04,495 INFO:Closing landmarker
+2025-05-02 20:55:04,497 INFO:Releasing video capture
+2025-05-02 20:55:04,767 INFO:Destroying root window
+2025-05-02 20:55:59,903 INFO:Инициализация FaceLandmarker
+2025-05-02 20:55:59,924 INFO:Main: opening video capture
+2025-05-02 20:56:08,794 INFO:Creating window 640x480
+2025-05-02 20:56:08,823 INFO:Creating canvas
+2025-05-02 20:56:08,823 INFO:Initializing CameraApp
+2025-05-02 20:56:08,823 DEBUG:CameraApp.__init__ called
+2025-05-02 20:56:08,823 DEBUG:Created img_id: 1
+2025-05-02 20:56:08,824 DEBUG:Created close_id at (620, 20)
+2025-05-02 20:56:08,824 INFO:Starting update scheduling
+2025-05-02 20:56:08,824 DEBUG:schedule_update called, delay=30
+2025-05-02 20:56:08,824 DEBUG:Scheduled update with after_id=after#0
+2025-05-02 20:56:08,824 INFO:Entering mainloop
+2025-05-02 20:56:08,868 DEBUG:update called
+2025-05-02 20:56:10,143 DEBUG:Frame updated on canvas
+2025-05-02 20:56:10,143 DEBUG:schedule_update called, delay=30
+2025-05-02 20:56:10,143 DEBUG:Scheduled update with after_id=after#1
+2025-05-02 20:56:10,177 DEBUG:update called
+2025-05-02 20:56:10,192 DEBUG:Frame updated on canvas
+2025-05-02 20:56:10,193 DEBUG:schedule_update called, delay=30
+2025-05-02 20:56:10,193 DEBUG:Scheduled update with after_id=after#2
+2025-05-02 20:56:10,223 DEBUG:update called
+2025-05-02 20:56:10,233 DEBUG:Frame updated on canvas
+2025-05-02 20:56:10,233 DEBUG:schedule_update called, delay=30
+2025-05-02 20:56:10,233 DEBUG:Scheduled update with after_id=after#3
+2025-05-02 20:56:10,269 DEBUG:update called
+2025-05-02 20:56:10,279 DEBUG:Frame updated on canvas
+2025-05-02 20:56:10,279 DEBUG:schedule_update called, delay=30
+2025-05-02 20:56:10,279 DEBUG:Scheduled update with after_id=after#4
+2025-05-02 20:56:10,315 DEBUG:update called
+2025-05-02 20:56:10,323 DEBUG:Frame updated on canvas
+2025-05-02 20:56:10,323 DEBUG:schedule_update called, delay=30
+2025-05-02 20:56:10,323 DEBUG:Scheduled update with after_id=after#5
+2025-05-02 20:56:10,362 DEBUG:update called
+2025-05-02 20:56:10,374 DEBUG:Frame updated on canvas
+2025-05-02 20:56:10,374 DEBUG:schedule_update called, delay=30
+2025-05-02 20:56:10,374 DEBUG:Scheduled update with after_id=after#6
+2025-05-02 20:56:10,408 DEBUG:update called
+2025-05-02 20:56:10,419 DEBUG:Frame updated on canvas
+2025-05-02 20:56:10,419 DEBUG:schedule_update called, delay=30
+2025-05-02 20:56:10,419 DEBUG:Scheduled update with after_id=after#7
+2025-05-02 20:56:10,454 DEBUG:update called
+2025-05-02 20:56:10,466 DEBUG:Frame updated on canvas
+2025-05-02 20:56:10,466 DEBUG:schedule_update called, delay=30
+2025-05-02 20:56:10,466 DEBUG:Scheduled update with after_id=after#8
+2025-05-02 20:56:10,500 DEBUG:update called
+2025-05-02 20:56:10,511 DEBUG:Frame updated on canvas
+2025-05-02 20:56:10,511 DEBUG:schedule_update called, delay=30
+2025-05-02 20:56:10,511 DEBUG:Scheduled update with after_id=after#9
+2025-05-02 20:56:10,546 DEBUG:update called
+2025-05-02 20:56:10,554 DEBUG:Frame updated on canvas
+2025-05-02 20:56:10,554 DEBUG:schedule_update called, delay=30
+2025-05-02 20:56:10,554 DEBUG:Scheduled update with after_id=after#10
+2025-05-02 20:56:10,593 DEBUG:update called
+2025-05-02 20:56:10,609 DEBUG:Frame updated on canvas
+2025-05-02 20:56:10,609 DEBUG:schedule_update called, delay=30
+2025-05-02 20:56:10,610 DEBUG:Scheduled update with after_id=after#11
+2025-05-02 20:56:10,639 DEBUG:update called
+2025-05-02 20:56:10,650 DEBUG:Frame updated on canvas
+2025-05-02 20:56:10,650 DEBUG:schedule_update called, delay=30
+2025-05-02 20:56:10,650 DEBUG:Scheduled update with after_id=after#12
+2025-05-02 20:56:10,686 DEBUG:update called
+2025-05-02 20:56:10,696 DEBUG:Frame updated on canvas
+2025-05-02 20:56:10,696 DEBUG:schedule_update called, delay=30
+2025-05-02 20:56:10,696 DEBUG:Scheduled update with after_id=after#13
+2025-05-02 20:56:10,732 DEBUG:update called
+2025-05-02 20:56:10,742 DEBUG:Frame updated on canvas
+2025-05-02 20:56:10,742 DEBUG:schedule_update called, delay=30
+2025-05-02 20:56:10,742 DEBUG:Scheduled update with after_id=after#14
+2025-05-02 20:56:10,777 DEBUG:update called
+2025-05-02 20:56:10,816 DEBUG:Frame updated on canvas
+2025-05-02 20:56:10,816 DEBUG:schedule_update called, delay=30
+2025-05-02 20:56:10,816 DEBUG:Scheduled update with after_id=after#15
+2025-05-02 20:56:10,853 DEBUG:update called
+2025-05-02 20:56:10,862 DEBUG:Frame updated on canvas
+2025-05-02 20:56:10,862 DEBUG:schedule_update called, delay=30
+2025-05-02 20:56:10,862 DEBUG:Scheduled update with after_id=after#16
+2025-05-02 20:56:10,893 DEBUG:update called
+2025-05-02 20:56:10,902 DEBUG:Frame updated on canvas
+2025-05-02 20:56:10,902 DEBUG:schedule_update called, delay=30
+2025-05-02 20:56:10,902 DEBUG:Scheduled update with after_id=after#17
+2025-05-02 20:56:10,935 DEBUG:update called
+2025-05-02 20:56:10,945 DEBUG:Frame updated on canvas
+2025-05-02 20:56:10,945 DEBUG:schedule_update called, delay=30
+2025-05-02 20:56:10,945 DEBUG:Scheduled update with after_id=after#18
+2025-05-02 20:56:10,976 DEBUG:update called
+2025-05-02 20:56:10,984 DEBUG:Frame updated on canvas
+2025-05-02 20:56:10,984 DEBUG:schedule_update called, delay=30
+2025-05-02 20:56:10,984 DEBUG:Scheduled update with after_id=after#19
+2025-05-02 20:56:11,023 DEBUG:update called
+2025-05-02 20:56:11,032 DEBUG:Frame updated on canvas
+2025-05-02 20:56:11,032 DEBUG:schedule_update called, delay=30
+2025-05-02 20:56:11,032 DEBUG:Scheduled update with after_id=after#20
+2025-05-02 20:56:11,064 DEBUG:update called
+2025-05-02 20:56:11,073 DEBUG:Frame updated on canvas
+2025-05-02 20:56:11,073 DEBUG:schedule_update called, delay=30
+2025-05-02 20:56:11,073 DEBUG:Scheduled update with after_id=after#21
+2025-05-02 20:56:11,104 DEBUG:update called
+2025-05-02 20:56:11,113 DEBUG:Frame updated on canvas
+2025-05-02 20:56:11,114 DEBUG:schedule_update called, delay=30
+2025-05-02 20:56:11,114 DEBUG:Scheduled update with after_id=after#22
+2025-05-02 20:56:11,143 DEBUG:update called
+2025-05-02 20:56:11,153 DEBUG:Frame updated on canvas
+2025-05-02 20:56:11,153 DEBUG:schedule_update called, delay=30
+2025-05-02 20:56:11,153 DEBUG:Scheduled update with after_id=after#23
+2025-05-02 20:56:11,184 DEBUG:update called
+2025-05-02 20:56:11,216 DEBUG:Frame updated on canvas
+2025-05-02 20:56:11,216 DEBUG:schedule_update called, delay=30
+2025-05-02 20:56:11,216 DEBUG:Scheduled update with after_id=after#24
+2025-05-02 20:56:11,252 DEBUG:update called
+2025-05-02 20:56:11,261 DEBUG:Frame updated on canvas
+2025-05-02 20:56:11,261 DEBUG:schedule_update called, delay=30
+2025-05-02 20:56:11,261 DEBUG:Scheduled update with after_id=after#25
+2025-05-02 20:56:11,300 DEBUG:update called
+2025-05-02 20:56:11,310 DEBUG:Frame updated on canvas
+2025-05-02 20:56:11,310 DEBUG:schedule_update called, delay=30
+2025-05-02 20:56:11,310 DEBUG:Scheduled update with after_id=after#26
+2025-05-02 20:56:11,346 DEBUG:update called
+2025-05-02 20:56:11,356 DEBUG:Frame updated on canvas
+2025-05-02 20:56:11,357 DEBUG:schedule_update called, delay=30
+2025-05-02 20:56:11,357 DEBUG:Scheduled update with after_id=after#27
+2025-05-02 20:56:11,393 DEBUG:update called
+2025-05-02 20:56:11,402 DEBUG:Frame updated on canvas
+2025-05-02 20:56:11,403 DEBUG:schedule_update called, delay=30
+2025-05-02 20:56:11,403 DEBUG:Scheduled update with after_id=after#28
+2025-05-02 20:56:11,438 DEBUG:update called
+2025-05-02 20:56:11,446 DEBUG:Frame updated on canvas
+2025-05-02 20:56:11,446 DEBUG:schedule_update called, delay=30
+2025-05-02 20:56:11,446 DEBUG:Scheduled update with after_id=after#29
+2025-05-02 20:56:11,486 DEBUG:update called
+2025-05-02 20:56:11,497 DEBUG:Frame updated on canvas
+2025-05-02 20:56:11,497 DEBUG:schedule_update called, delay=30
+2025-05-02 20:56:11,497 DEBUG:Scheduled update with after_id=after#30
+2025-05-02 20:56:11,532 DEBUG:update called
+2025-05-02 20:56:11,570 DEBUG:Frame updated on canvas
+2025-05-02 20:56:11,570 DEBUG:schedule_update called, delay=30
+2025-05-02 20:56:11,570 DEBUG:Scheduled update with after_id=after#31
+2025-05-02 20:56:11,604 INFO:on_closing called
+2025-05-02 20:56:11,604 DEBUG:Cancelling after_id=after#31
+2025-05-02 20:56:11,604 INFO:Closing landmarker
+2025-05-02 20:56:11,606 INFO:Releasing video capture
+2025-05-02 20:56:11,860 INFO:Destroying root window
+2025-05-02 20:57:01,161 INFO:Инициализация FaceLandmarker
+2025-05-02 20:57:01,182 INFO:Main: opening video capture
+2025-05-02 20:57:10,148 INFO:Creating window 640x480
+2025-05-02 20:57:10,175 INFO:Creating canvas
+2025-05-02 20:57:10,175 INFO:Initializing CameraApp
+2025-05-02 20:57:10,175 DEBUG:CameraApp.__init__ called
+2025-05-02 20:57:10,175 DEBUG:Created img_id: 1
+2025-05-02 20:57:10,178 DEBUG:Created close_id at (620, 20)
+2025-05-02 20:57:10,178 INFO:Starting update scheduling
+2025-05-02 20:57:10,178 DEBUG:schedule_update called, delay=30
+2025-05-02 20:57:10,178 DEBUG:Scheduled update with after_id=after#0
+2025-05-02 20:57:10,178 INFO:Entering mainloop
+2025-05-02 20:57:10,207 DEBUG:update called
+2025-05-02 20:57:11,472 DEBUG:Frame updated on canvas
+2025-05-02 20:57:11,472 DEBUG:schedule_update called, delay=30
+2025-05-02 20:57:11,472 DEBUG:Scheduled update with after_id=after#1
+2025-05-02 20:57:11,504 DEBUG:update called
+2025-05-02 20:57:11,535 DEBUG:Frame updated on canvas
+2025-05-02 20:57:11,537 DEBUG:schedule_update called, delay=30
+2025-05-02 20:57:11,537 DEBUG:Scheduled update with after_id=after#2
+2025-05-02 20:57:11,567 DEBUG:update called
+2025-05-02 20:57:11,577 DEBUG:Frame updated on canvas
+2025-05-02 20:57:11,577 DEBUG:schedule_update called, delay=30
+2025-05-02 20:57:11,577 DEBUG:Scheduled update with after_id=after#3
+2025-05-02 20:57:11,608 DEBUG:update called
+2025-05-02 20:57:11,617 DEBUG:Frame updated on canvas
+2025-05-02 20:57:11,617 DEBUG:schedule_update called, delay=30
+2025-05-02 20:57:11,617 DEBUG:Scheduled update with after_id=after#4
+2025-05-02 20:57:11,660 DEBUG:update called
+2025-05-02 20:57:11,668 DEBUG:Frame updated on canvas
+2025-05-02 20:57:11,668 DEBUG:schedule_update called, delay=30
+2025-05-02 20:57:11,668 DEBUG:Scheduled update with after_id=after#5
+2025-05-02 20:57:11,704 DEBUG:update called
+2025-05-02 20:57:11,712 DEBUG:Frame updated on canvas
+2025-05-02 20:57:11,712 DEBUG:schedule_update called, delay=30
+2025-05-02 20:57:11,712 DEBUG:Scheduled update with after_id=after#6
+2025-05-02 20:57:11,750 DEBUG:update called
+2025-05-02 20:57:11,760 DEBUG:Frame updated on canvas
+2025-05-02 20:57:11,760 DEBUG:schedule_update called, delay=30
+2025-05-02 20:57:11,760 DEBUG:Scheduled update with after_id=after#7
+2025-05-02 20:57:11,795 DEBUG:update called
+2025-05-02 20:57:11,805 DEBUG:Frame updated on canvas
+2025-05-02 20:57:11,805 DEBUG:schedule_update called, delay=30
+2025-05-02 20:57:11,805 DEBUG:Scheduled update with after_id=after#8
+2025-05-02 20:57:11,836 DEBUG:update called
+2025-05-02 20:57:11,847 DEBUG:Frame updated on canvas
+2025-05-02 20:57:11,847 DEBUG:schedule_update called, delay=30
+2025-05-02 20:57:11,847 DEBUG:Scheduled update with after_id=after#9
+2025-05-02 20:57:11,878 DEBUG:update called
+2025-05-02 20:57:11,889 DEBUG:Frame updated on canvas
+2025-05-02 20:57:11,889 DEBUG:schedule_update called, delay=30
+2025-05-02 20:57:11,889 DEBUG:Scheduled update with after_id=after#10
+2025-05-02 20:57:11,919 DEBUG:update called
+2025-05-02 20:57:11,939 DEBUG:Frame updated on canvas
+2025-05-02 20:57:11,939 DEBUG:schedule_update called, delay=30
+2025-05-02 20:57:11,939 DEBUG:Scheduled update with after_id=after#11
+2025-05-02 20:57:11,971 DEBUG:update called
+2025-05-02 20:57:11,979 DEBUG:Frame updated on canvas
+2025-05-02 20:57:11,979 DEBUG:schedule_update called, delay=30
+2025-05-02 20:57:11,981 DEBUG:Scheduled update with after_id=after#12
+2025-05-02 20:57:12,012 DEBUG:update called
+2025-05-02 20:57:12,021 DEBUG:Frame updated on canvas
+2025-05-02 20:57:12,021 DEBUG:schedule_update called, delay=30
+2025-05-02 20:57:12,021 DEBUG:Scheduled update with after_id=after#13
+2025-05-02 20:57:12,057 DEBUG:update called
+2025-05-02 20:57:12,068 DEBUG:Frame updated on canvas
+2025-05-02 20:57:12,068 DEBUG:schedule_update called, delay=30
+2025-05-02 20:57:12,068 DEBUG:Scheduled update with after_id=after#14
+2025-05-02 20:57:12,103 DEBUG:update called
+2025-05-02 20:57:12,112 DEBUG:Frame updated on canvas
+2025-05-02 20:57:12,112 DEBUG:schedule_update called, delay=30
+2025-05-02 20:57:12,112 DEBUG:Scheduled update with after_id=after#15
+2025-05-02 20:57:12,146 DEBUG:update called
+2025-05-02 20:57:12,155 DEBUG:Frame updated on canvas
+2025-05-02 20:57:12,155 DEBUG:schedule_update called, delay=30
+2025-05-02 20:57:12,155 DEBUG:Scheduled update with after_id=after#16
+2025-05-02 20:57:12,185 DEBUG:update called
+2025-05-02 20:57:12,226 DEBUG:Frame updated on canvas
+2025-05-02 20:57:12,226 DEBUG:schedule_update called, delay=30
+2025-05-02 20:57:12,227 DEBUG:Scheduled update with after_id=after#17
+2025-05-02 20:57:12,260 DEBUG:update called
+2025-05-02 20:57:12,271 DEBUG:Frame updated on canvas
+2025-05-02 20:57:12,271 DEBUG:schedule_update called, delay=30
+2025-05-02 20:57:12,271 DEBUG:Scheduled update with after_id=after#18
+2025-05-02 20:57:12,302 DEBUG:update called
+2025-05-02 20:57:12,312 DEBUG:Frame updated on canvas
+2025-05-02 20:57:12,313 DEBUG:schedule_update called, delay=30
+2025-05-02 20:57:12,313 DEBUG:Scheduled update with after_id=after#19
+2025-05-02 20:57:12,346 DEBUG:update called
+2025-05-02 20:57:12,356 DEBUG:Frame updated on canvas
+2025-05-02 20:57:12,356 DEBUG:schedule_update called, delay=30
+2025-05-02 20:57:12,356 DEBUG:Scheduled update with after_id=after#20
+2025-05-02 20:57:12,391 DEBUG:update called
+2025-05-02 20:57:12,402 DEBUG:Frame updated on canvas
+2025-05-02 20:57:12,402 DEBUG:schedule_update called, delay=30
+2025-05-02 20:57:12,402 DEBUG:Scheduled update with after_id=after#21
+2025-05-02 20:57:12,438 DEBUG:update called
+2025-05-02 20:57:12,448 DEBUG:Frame updated on canvas
+2025-05-02 20:57:12,448 DEBUG:schedule_update called, delay=30
+2025-05-02 20:57:12,448 DEBUG:Scheduled update with after_id=after#22
+2025-05-02 20:57:12,483 DEBUG:update called
+2025-05-02 20:57:12,490 DEBUG:Frame updated on canvas
+2025-05-02 20:57:12,490 DEBUG:schedule_update called, delay=30
+2025-05-02 20:57:12,490 DEBUG:Scheduled update with after_id=after#23
+2025-05-02 20:57:12,527 DEBUG:update called
+2025-05-02 20:57:12,538 DEBUG:Frame updated on canvas
+2025-05-02 20:57:12,539 DEBUG:schedule_update called, delay=30
+2025-05-02 20:57:12,539 DEBUG:Scheduled update with after_id=after#24
+2025-05-02 20:57:12,574 DEBUG:update called
+2025-05-02 20:57:12,582 DEBUG:Frame updated on canvas
+2025-05-02 20:57:12,582 DEBUG:schedule_update called, delay=30
+2025-05-02 20:57:12,583 DEBUG:Scheduled update with after_id=after#25
+2025-05-02 20:57:12,619 DEBUG:update called
+2025-05-02 20:57:12,628 DEBUG:Frame updated on canvas
+2025-05-02 20:57:12,628 DEBUG:schedule_update called, delay=30
+2025-05-02 20:57:12,628 DEBUG:Scheduled update with after_id=after#26
+2025-05-02 20:57:12,664 DEBUG:update called
+2025-05-02 20:57:12,673 DEBUG:Frame updated on canvas
+2025-05-02 20:57:12,674 DEBUG:schedule_update called, delay=30
+2025-05-02 20:57:12,674 DEBUG:Scheduled update with after_id=after#27
+2025-05-02 20:57:12,710 DEBUG:update called
+2025-05-02 20:57:12,721 DEBUG:Frame updated on canvas
+2025-05-02 20:57:12,721 DEBUG:schedule_update called, delay=30
+2025-05-02 20:57:12,722 DEBUG:Scheduled update with after_id=after#28
+2025-05-02 20:57:12,755 DEBUG:update called
+2025-05-02 20:57:12,763 DEBUG:Frame updated on canvas
+2025-05-02 20:57:12,763 DEBUG:schedule_update called, delay=30
+2025-05-02 20:57:12,763 DEBUG:Scheduled update with after_id=after#29
+2025-05-02 20:57:12,801 DEBUG:update called
+2025-05-02 20:57:12,812 DEBUG:Frame updated on canvas
+2025-05-02 20:57:12,812 DEBUG:schedule_update called, delay=30
+2025-05-02 20:57:12,812 DEBUG:Scheduled update with after_id=after#30
+2025-05-02 20:57:12,845 DEBUG:update called
+2025-05-02 20:57:12,852 DEBUG:Frame updated on canvas
+2025-05-02 20:57:12,852 DEBUG:schedule_update called, delay=30
+2025-05-02 20:57:12,852 DEBUG:Scheduled update with after_id=after#31
+2025-05-02 20:57:12,893 DEBUG:update called
+2025-05-02 20:57:12,904 DEBUG:Frame updated on canvas
+2025-05-02 20:57:12,904 DEBUG:schedule_update called, delay=30
+2025-05-02 20:57:12,904 DEBUG:Scheduled update with after_id=after#32
+2025-05-02 20:57:12,940 DEBUG:update called
+2025-05-02 20:57:12,948 DEBUG:Frame updated on canvas
+2025-05-02 20:57:12,948 DEBUG:schedule_update called, delay=30
+2025-05-02 20:57:12,950 DEBUG:Scheduled update with after_id=after#33
+2025-05-02 20:57:12,981 INFO:on_closing called
+2025-05-02 20:57:12,981 DEBUG:Cancelling after_id=after#33
+2025-05-02 20:57:12,981 INFO:Closing landmarker
+2025-05-02 20:57:12,983 INFO:Releasing video capture
+2025-05-02 20:57:13,252 INFO:Destroying root window
+2025-05-02 20:59:06,426 INFO:Инициализация FaceLandmarker
+2025-05-02 20:59:06,445 INFO:Main: opening video capture
+2025-05-02 20:59:15,066 INFO:Creating window 640x480
+2025-05-02 20:59:15,094 INFO:Creating canvas
+2025-05-02 20:59:15,094 INFO:Initializing CameraApp
+2025-05-02 20:59:15,094 DEBUG:CameraApp.__init__ called
+2025-05-02 20:59:15,094 DEBUG:Created img_id: 1
+2025-05-02 20:59:15,095 DEBUG:Created close_id at (620, 20)
+2025-05-02 20:59:15,096 INFO:Starting update scheduling
+2025-05-02 20:59:15,096 DEBUG:schedule_update called, delay=30
+2025-05-02 20:59:15,096 DEBUG:Scheduled update with after_id=after#0
+2025-05-02 20:59:15,096 INFO:Entering mainloop
+2025-05-02 20:59:15,126 DEBUG:update called
+2025-05-02 20:59:16,391 DEBUG:Frame updated on canvas
+2025-05-02 20:59:16,391 DEBUG:schedule_update called, delay=30
+2025-05-02 20:59:16,391 DEBUG:Scheduled update with after_id=after#1
+2025-05-02 20:59:16,432 DEBUG:update called
+2025-05-02 20:59:16,441 DEBUG:Frame updated on canvas
+2025-05-02 20:59:16,441 DEBUG:schedule_update called, delay=30
+2025-05-02 20:59:16,441 DEBUG:Scheduled update with after_id=after#2
+2025-05-02 20:59:16,478 DEBUG:update called
+2025-05-02 20:59:16,486 DEBUG:Frame updated on canvas
+2025-05-02 20:59:16,487 DEBUG:schedule_update called, delay=30
+2025-05-02 20:59:16,487 DEBUG:Scheduled update with after_id=after#3
+2025-05-02 20:59:16,524 DEBUG:update called
+2025-05-02 20:59:16,533 DEBUG:Frame updated on canvas
+2025-05-02 20:59:16,533 DEBUG:schedule_update called, delay=30
+2025-05-02 20:59:16,533 DEBUG:Scheduled update with after_id=after#4
+2025-05-02 20:59:16,570 DEBUG:update called
+2025-05-02 20:59:16,582 DEBUG:Frame updated on canvas
+2025-05-02 20:59:16,583 DEBUG:schedule_update called, delay=30
+2025-05-02 20:59:16,583 DEBUG:Scheduled update with after_id=after#5
+2025-05-02 20:59:16,614 DEBUG:update called
+2025-05-02 20:59:16,624 DEBUG:Frame updated on canvas
+2025-05-02 20:59:16,624 DEBUG:schedule_update called, delay=30
+2025-05-02 20:59:16,625 DEBUG:Scheduled update with after_id=after#6
+2025-05-02 20:59:16,660 DEBUG:update called
+2025-05-02 20:59:16,670 DEBUG:Frame updated on canvas
+2025-05-02 20:59:16,670 DEBUG:schedule_update called, delay=30
+2025-05-02 20:59:16,670 DEBUG:Scheduled update with after_id=after#7
+2025-05-02 20:59:16,707 DEBUG:update called
+2025-05-02 20:59:16,717 DEBUG:Frame updated on canvas
+2025-05-02 20:59:16,717 DEBUG:schedule_update called, delay=30
+2025-05-02 20:59:16,717 DEBUG:Scheduled update with after_id=after#8
+2025-05-02 20:59:16,749 DEBUG:update called
+2025-05-02 20:59:16,758 DEBUG:Frame updated on canvas
+2025-05-02 20:59:16,758 DEBUG:schedule_update called, delay=30
+2025-05-02 20:59:16,758 DEBUG:Scheduled update with after_id=after#9
+2025-05-02 20:59:16,788 DEBUG:update called
+2025-05-02 20:59:16,797 DEBUG:Frame updated on canvas
+2025-05-02 20:59:16,797 DEBUG:schedule_update called, delay=30
+2025-05-02 20:59:16,797 DEBUG:Scheduled update with after_id=after#10
+2025-05-02 20:59:16,830 DEBUG:update called
+2025-05-02 20:59:16,854 DEBUG:Frame updated on canvas
+2025-05-02 20:59:16,854 DEBUG:schedule_update called, delay=30
+2025-05-02 20:59:16,854 DEBUG:Scheduled update with after_id=after#11
+2025-05-02 20:59:16,886 DEBUG:update called
+2025-05-02 20:59:16,896 DEBUG:Frame updated on canvas
+2025-05-02 20:59:16,896 DEBUG:schedule_update called, delay=30
+2025-05-02 20:59:16,896 DEBUG:Scheduled update with after_id=after#12
+2025-05-02 20:59:16,927 DEBUG:update called
+2025-05-02 20:59:16,936 DEBUG:Frame updated on canvas
+2025-05-02 20:59:16,936 DEBUG:schedule_update called, delay=30
+2025-05-02 20:59:16,937 DEBUG:Scheduled update with after_id=after#13
+2025-05-02 20:59:16,971 DEBUG:update called
+2025-05-02 20:59:16,981 DEBUG:Frame updated on canvas
+2025-05-02 20:59:16,982 DEBUG:schedule_update called, delay=30
+2025-05-02 20:59:16,982 DEBUG:Scheduled update with after_id=after#14
+2025-05-02 20:59:17,016 DEBUG:update called
+2025-05-02 20:59:17,027 DEBUG:Frame updated on canvas
+2025-05-02 20:59:17,027 DEBUG:schedule_update called, delay=30
+2025-05-02 20:59:17,027 DEBUG:Scheduled update with after_id=after#15
+2025-05-02 20:59:17,057 DEBUG:update called
+2025-05-02 20:59:17,068 DEBUG:Frame updated on canvas
+2025-05-02 20:59:17,068 DEBUG:schedule_update called, delay=30
+2025-05-02 20:59:17,068 DEBUG:Scheduled update with after_id=after#16
+2025-05-02 20:59:17,103 DEBUG:update called
+2025-05-02 20:59:17,127 DEBUG:Frame updated on canvas
+2025-05-02 20:59:17,127 DEBUG:schedule_update called, delay=30
+2025-05-02 20:59:17,127 DEBUG:Scheduled update with after_id=after#17
+2025-05-02 20:59:17,163 DEBUG:update called
+2025-05-02 20:59:17,172 DEBUG:Frame updated on canvas
+2025-05-02 20:59:17,172 DEBUG:schedule_update called, delay=30
+2025-05-02 20:59:17,172 DEBUG:Scheduled update with after_id=after#18
+2025-05-02 20:59:17,205 DEBUG:update called
+2025-05-02 20:59:17,213 DEBUG:Frame updated on canvas
+2025-05-02 20:59:17,213 DEBUG:schedule_update called, delay=30
+2025-05-02 20:59:17,214 DEBUG:Scheduled update with after_id=after#19
+2025-05-02 20:59:17,251 DEBUG:update called
+2025-05-02 20:59:17,271 DEBUG:Frame updated on canvas
+2025-05-02 20:59:17,271 DEBUG:schedule_update called, delay=30
+2025-05-02 20:59:17,271 DEBUG:Scheduled update with after_id=after#20
+2025-05-02 20:59:17,304 DEBUG:update called
+2025-05-02 20:59:17,313 DEBUG:Frame updated on canvas
+2025-05-02 20:59:17,313 DEBUG:schedule_update called, delay=30
+2025-05-02 20:59:17,313 DEBUG:Scheduled update with after_id=after#21
+2025-05-02 20:59:17,343 DEBUG:update called
+2025-05-02 20:59:17,352 DEBUG:Frame updated on canvas
+2025-05-02 20:59:17,352 DEBUG:schedule_update called, delay=30
+2025-05-02 20:59:17,352 DEBUG:Scheduled update with after_id=after#22
+2025-05-02 20:59:17,388 DEBUG:update called
+2025-05-02 20:59:17,396 DEBUG:Frame updated on canvas
+2025-05-02 20:59:17,396 DEBUG:schedule_update called, delay=30
+2025-05-02 20:59:17,396 DEBUG:Scheduled update with after_id=after#23
+2025-05-02 20:59:17,439 DEBUG:update called
+2025-05-02 20:59:17,450 DEBUG:Frame updated on canvas
+2025-05-02 20:59:17,450 DEBUG:schedule_update called, delay=30
+2025-05-02 20:59:17,450 DEBUG:Scheduled update with after_id=after#24
+2025-05-02 20:59:17,486 DEBUG:update called
+2025-05-02 20:59:17,496 DEBUG:Frame updated on canvas
+2025-05-02 20:59:17,496 DEBUG:schedule_update called, delay=30
+2025-05-02 20:59:17,496 DEBUG:Scheduled update with after_id=after#25
+2025-05-02 20:59:17,533 DEBUG:update called
+2025-05-02 20:59:17,543 DEBUG:Frame updated on canvas
+2025-05-02 20:59:17,543 DEBUG:schedule_update called, delay=30
+2025-05-02 20:59:17,543 DEBUG:Scheduled update with after_id=after#26
+2025-05-02 20:59:17,580 DEBUG:update called
+2025-05-02 20:59:17,590 DEBUG:Frame updated on canvas
+2025-05-02 20:59:17,590 DEBUG:schedule_update called, delay=30
+2025-05-02 20:59:17,590 DEBUG:Scheduled update with after_id=after#27
+2025-05-02 20:59:17,626 DEBUG:update called
+2025-05-02 20:59:17,637 DEBUG:Frame updated on canvas
+2025-05-02 20:59:17,637 DEBUG:schedule_update called, delay=30
+2025-05-02 20:59:17,637 DEBUG:Scheduled update with after_id=after#28
+2025-05-02 20:59:17,673 DEBUG:update called
+2025-05-02 20:59:17,683 DEBUG:Frame updated on canvas
+2025-05-02 20:59:17,683 DEBUG:schedule_update called, delay=30
+2025-05-02 20:59:17,683 DEBUG:Scheduled update with after_id=after#29
+2025-05-02 20:59:17,720 DEBUG:update called
+2025-05-02 20:59:17,731 DEBUG:Frame updated on canvas
+2025-05-02 20:59:17,731 DEBUG:schedule_update called, delay=30
+2025-05-02 20:59:17,731 DEBUG:Scheduled update with after_id=after#30
+2025-05-02 20:59:17,766 DEBUG:update called
+2025-05-02 20:59:17,775 DEBUG:Frame updated on canvas
+2025-05-02 20:59:17,775 DEBUG:schedule_update called, delay=30
+2025-05-02 20:59:17,775 DEBUG:Scheduled update with after_id=after#31
+2025-05-02 20:59:17,811 DEBUG:update called
+2025-05-02 20:59:17,820 DEBUG:Frame updated on canvas
+2025-05-02 20:59:17,820 DEBUG:schedule_update called, delay=30
+2025-05-02 20:59:17,820 DEBUG:Scheduled update with after_id=after#32
+2025-05-02 20:59:17,829 INFO:on_closing called
+2025-05-02 20:59:17,829 DEBUG:Cancelling after_id=after#32
+2025-05-02 20:59:17,829 INFO:Closing landmarker
+2025-05-02 20:59:17,831 INFO:Releasing video capture
+2025-05-02 20:59:18,094 INFO:Destroying root window
+2025-05-02 21:01:04,656 INFO:Инициализация FaceLandmarker
+2025-05-02 21:01:04,675 INFO:Main: opening video capture
+2025-05-02 21:01:13,327 INFO:Creating window 640x480
+2025-05-02 21:01:13,355 INFO:Creating canvas
+2025-05-02 21:01:13,356 INFO:Initializing CameraApp
+2025-05-02 21:01:13,356 DEBUG:CameraApp.__init__ called
+2025-05-02 21:01:13,356 DEBUG:Created img_id: 1
+2025-05-02 21:01:13,357 DEBUG:Created close_id at (620, 20)
+2025-05-02 21:01:13,357 INFO:Starting update scheduling
+2025-05-02 21:01:13,357 DEBUG:schedule_update called, delay=30
+2025-05-02 21:01:13,357 DEBUG:Scheduled update with after_id=after#0
+2025-05-02 21:01:13,357 INFO:Entering mainloop
+2025-05-02 21:01:13,401 DEBUG:update called
+2025-05-02 21:01:14,622 DEBUG:Frame updated on canvas
+2025-05-02 21:01:14,622 DEBUG:schedule_update called, delay=30
+2025-05-02 21:01:14,622 DEBUG:Scheduled update with after_id=after#1
+2025-05-02 21:01:14,659 DEBUG:update called
+2025-05-02 21:01:14,669 DEBUG:Frame updated on canvas
+2025-05-02 21:01:14,669 DEBUG:schedule_update called, delay=30
+2025-05-02 21:01:14,669 DEBUG:Scheduled update with after_id=after#2
+2025-05-02 21:01:14,705 DEBUG:update called
+2025-05-02 21:01:14,715 DEBUG:Frame updated on canvas
+2025-05-02 21:01:14,716 DEBUG:schedule_update called, delay=30
+2025-05-02 21:01:14,716 DEBUG:Scheduled update with after_id=after#3
+2025-05-02 21:01:14,752 DEBUG:update called
+2025-05-02 21:01:14,762 DEBUG:Frame updated on canvas
+2025-05-02 21:01:14,762 DEBUG:schedule_update called, delay=30
+2025-05-02 21:01:14,762 DEBUG:Scheduled update with after_id=after#4
+2025-05-02 21:01:14,798 DEBUG:update called
+2025-05-02 21:01:14,809 DEBUG:Frame updated on canvas
+2025-05-02 21:01:14,809 DEBUG:schedule_update called, delay=30
+2025-05-02 21:01:14,809 DEBUG:Scheduled update with after_id=after#5
+2025-05-02 21:01:14,843 DEBUG:update called
+2025-05-02 21:01:14,852 DEBUG:Frame updated on canvas
+2025-05-02 21:01:14,852 DEBUG:schedule_update called, delay=30
+2025-05-02 21:01:14,852 DEBUG:Scheduled update with after_id=after#6
+2025-05-02 21:01:14,889 DEBUG:update called
+2025-05-02 21:01:14,899 DEBUG:Frame updated on canvas
+2025-05-02 21:01:14,899 DEBUG:schedule_update called, delay=30
+2025-05-02 21:01:14,899 DEBUG:Scheduled update with after_id=after#7
+2025-05-02 21:01:14,934 DEBUG:update called
+2025-05-02 21:01:14,945 DEBUG:Frame updated on canvas
+2025-05-02 21:01:14,945 DEBUG:schedule_update called, delay=30
+2025-05-02 21:01:14,945 DEBUG:Scheduled update with after_id=after#8
+2025-05-02 21:01:14,980 DEBUG:update called
+2025-05-02 21:01:15,021 DEBUG:Frame updated on canvas
+2025-05-02 21:01:15,022 DEBUG:schedule_update called, delay=30
+2025-05-02 21:01:15,022 DEBUG:Scheduled update with after_id=after#9
+2025-05-02 21:01:15,056 DEBUG:update called
+2025-05-02 21:01:15,066 DEBUG:Frame updated on canvas
+2025-05-02 21:01:15,066 DEBUG:schedule_update called, delay=30
+2025-05-02 21:01:15,066 DEBUG:Scheduled update with after_id=after#10
+2025-05-02 21:01:15,098 DEBUG:update called
+2025-05-02 21:01:15,106 DEBUG:Frame updated on canvas
+2025-05-02 21:01:15,106 DEBUG:schedule_update called, delay=30
+2025-05-02 21:01:15,106 DEBUG:Scheduled update with after_id=after#11
+2025-05-02 21:01:15,138 DEBUG:update called
+2025-05-02 21:01:15,149 DEBUG:Frame updated on canvas
+2025-05-02 21:01:15,149 DEBUG:schedule_update called, delay=30
+2025-05-02 21:01:15,150 DEBUG:Scheduled update with after_id=after#12
+2025-05-02 21:01:15,180 DEBUG:update called
+2025-05-02 21:01:15,191 DEBUG:Frame updated on canvas
+2025-05-02 21:01:15,191 DEBUG:schedule_update called, delay=30
+2025-05-02 21:01:15,191 DEBUG:Scheduled update with after_id=after#13
+2025-05-02 21:01:15,221 DEBUG:update called
+2025-05-02 21:01:15,229 DEBUG:Frame updated on canvas
+2025-05-02 21:01:15,230 DEBUG:schedule_update called, delay=30
+2025-05-02 21:01:15,230 DEBUG:Scheduled update with after_id=after#14
+2025-05-02 21:01:15,260 DEBUG:update called
+2025-05-02 21:01:15,269 DEBUG:Frame updated on canvas
+2025-05-02 21:01:15,269 DEBUG:schedule_update called, delay=30
+2025-05-02 21:01:15,269 DEBUG:Scheduled update with after_id=after#15
+2025-05-02 21:01:15,299 DEBUG:update called
+2025-05-02 21:01:15,310 DEBUG:Frame updated on canvas
+2025-05-02 21:01:15,310 DEBUG:schedule_update called, delay=30
+2025-05-02 21:01:15,310 DEBUG:Scheduled update with after_id=after#16
+2025-05-02 21:01:15,342 DEBUG:update called
+2025-05-02 21:01:15,358 DEBUG:Frame updated on canvas
+2025-05-02 21:01:15,358 DEBUG:schedule_update called, delay=30
+2025-05-02 21:01:15,358 DEBUG:Scheduled update with after_id=after#17
+2025-05-02 21:01:15,393 DEBUG:update called
+2025-05-02 21:01:15,403 DEBUG:Frame updated on canvas
+2025-05-02 21:01:15,403 DEBUG:schedule_update called, delay=30
+2025-05-02 21:01:15,403 DEBUG:Scheduled update with after_id=after#18
+2025-05-02 21:01:15,440 DEBUG:update called
+2025-05-02 21:01:15,450 DEBUG:Frame updated on canvas
+2025-05-02 21:01:15,450 DEBUG:schedule_update called, delay=30
+2025-05-02 21:01:15,450 DEBUG:Scheduled update with after_id=after#19
+2025-05-02 21:01:15,486 DEBUG:update called
+2025-05-02 21:01:15,501 DEBUG:Frame updated on canvas
+2025-05-02 21:01:15,501 DEBUG:schedule_update called, delay=30
+2025-05-02 21:01:15,501 DEBUG:Scheduled update with after_id=after#20
+2025-05-02 21:01:15,532 DEBUG:update called
+2025-05-02 21:01:15,541 DEBUG:Frame updated on canvas
+2025-05-02 21:01:15,541 DEBUG:schedule_update called, delay=30
+2025-05-02 21:01:15,541 DEBUG:Scheduled update with after_id=after#21
+2025-05-02 21:01:15,574 DEBUG:update called
+2025-05-02 21:01:15,586 DEBUG:Frame updated on canvas
+2025-05-02 21:01:15,586 DEBUG:schedule_update called, delay=30
+2025-05-02 21:01:15,586 DEBUG:Scheduled update with after_id=after#22
+2025-05-02 21:01:15,620 DEBUG:update called
+2025-05-02 21:01:15,630 DEBUG:Frame updated on canvas
+2025-05-02 21:01:15,630 DEBUG:schedule_update called, delay=30
+2025-05-02 21:01:15,630 DEBUG:Scheduled update with after_id=after#23
+2025-05-02 21:01:15,664 DEBUG:update called
+2025-05-02 21:01:15,711 DEBUG:Frame updated on canvas
+2025-05-02 21:01:15,711 DEBUG:schedule_update called, delay=30
+2025-05-02 21:01:15,711 DEBUG:Scheduled update with after_id=after#24
+2025-05-02 21:01:15,744 DEBUG:update called
+2025-05-02 21:01:15,753 DEBUG:Frame updated on canvas
+2025-05-02 21:01:15,753 DEBUG:schedule_update called, delay=30
+2025-05-02 21:01:15,754 DEBUG:Scheduled update with after_id=after#25
+2025-05-02 21:01:15,789 DEBUG:update called
+2025-05-02 21:01:15,798 DEBUG:Frame updated on canvas
+2025-05-02 21:01:15,799 DEBUG:schedule_update called, delay=30
+2025-05-02 21:01:15,799 DEBUG:Scheduled update with after_id=after#26
+2025-05-02 21:01:15,830 DEBUG:update called
+2025-05-02 21:01:15,840 DEBUG:Frame updated on canvas
+2025-05-02 21:01:15,840 DEBUG:schedule_update called, delay=30
+2025-05-02 21:01:15,840 DEBUG:Scheduled update with after_id=after#27
+2025-05-02 21:01:15,882 DEBUG:update called
+2025-05-02 21:01:15,891 DEBUG:Frame updated on canvas
+2025-05-02 21:01:15,891 DEBUG:schedule_update called, delay=30
+2025-05-02 21:01:15,891 DEBUG:Scheduled update with after_id=after#28
+2025-05-02 21:01:15,928 DEBUG:update called
+2025-05-02 21:01:15,936 DEBUG:Frame updated on canvas
+2025-05-02 21:01:15,936 DEBUG:schedule_update called, delay=30
+2025-05-02 21:01:15,936 DEBUG:Scheduled update with after_id=after#29
+2025-05-02 21:01:15,974 DEBUG:update called
+2025-05-02 21:01:15,983 DEBUG:Frame updated on canvas
+2025-05-02 21:01:15,983 DEBUG:schedule_update called, delay=30
+2025-05-02 21:01:15,983 DEBUG:Scheduled update with after_id=after#30
+2025-05-02 21:01:16,019 DEBUG:update called
+2025-05-02 21:01:16,045 DEBUG:Frame updated on canvas
+2025-05-02 21:01:16,045 DEBUG:schedule_update called, delay=30
+2025-05-02 21:01:16,045 DEBUG:Scheduled update with after_id=after#31
+2025-05-02 21:01:16,081 DEBUG:update called
+2025-05-02 21:01:16,090 DEBUG:Frame updated on canvas
+2025-05-02 21:01:16,090 DEBUG:schedule_update called, delay=30
+2025-05-02 21:01:16,090 DEBUG:Scheduled update with after_id=after#32
+2025-05-02 21:01:16,126 DEBUG:update called
+2025-05-02 21:01:16,135 DEBUG:Frame updated on canvas
+2025-05-02 21:01:16,135 DEBUG:schedule_update called, delay=30
+2025-05-02 21:01:16,135 DEBUG:Scheduled update with after_id=after#33
+2025-05-02 21:01:16,173 DEBUG:update called
+2025-05-02 21:01:16,184 DEBUG:Frame updated on canvas
+2025-05-02 21:01:16,184 DEBUG:schedule_update called, delay=30
+2025-05-02 21:01:16,184 DEBUG:Scheduled update with after_id=after#34
+2025-05-02 21:01:16,219 DEBUG:update called
+2025-05-02 21:01:16,227 DEBUG:Frame updated on canvas
+2025-05-02 21:01:16,227 DEBUG:schedule_update called, delay=30
+2025-05-02 21:01:16,227 DEBUG:Scheduled update with after_id=after#35
+2025-05-02 21:01:16,265 DEBUG:update called
+2025-05-02 21:01:16,275 DEBUG:Frame updated on canvas
+2025-05-02 21:01:16,275 DEBUG:schedule_update called, delay=30
+2025-05-02 21:01:16,275 DEBUG:Scheduled update with after_id=after#36
+2025-05-02 21:01:16,276 INFO:on_closing called
+2025-05-02 21:01:16,276 DEBUG:Cancelling after_id=after#36
+2025-05-02 21:01:16,276 INFO:Closing landmarker
+2025-05-02 21:01:16,280 INFO:Releasing video capture
+2025-05-02 21:01:16,548 INFO:Quitting mainloop
+2025-05-02 21:01:16,548 DEBUG:start_move at (621,27)
+2025-05-02 21:01:16,548 INFO:Exited mainloop
+2025-05-02 21:09:30,551 INFO:Инициализация FaceLandmarker
+2025-05-02 21:09:30,578 INFO:Main: opening video capture
+2025-05-02 21:09:39,439 INFO:Creating window 640x480
+2025-05-02 21:09:39,467 INFO:Creating canvas
+2025-05-02 21:09:39,467 INFO:Initializing CameraApp
+2025-05-02 21:09:39,467 DEBUG:CameraApp.__init__ called
+2025-05-02 21:09:39,467 DEBUG:Created img_id: 1
+2025-05-02 21:09:39,469 DEBUG:Created close_id at (620, 20)
+2025-05-02 21:09:39,469 INFO:Starting update scheduling
+2025-05-02 21:09:39,469 DEBUG:schedule_update called, delay=30
+2025-05-02 21:09:39,469 DEBUG:Scheduled update with after_id=after#0
+2025-05-02 21:09:39,469 INFO:Entering mainloop
+2025-05-02 21:09:39,507 DEBUG:update called
+2025-05-02 21:09:40,768 DEBUG:Frame updated on canvas
+2025-05-02 21:09:40,768 DEBUG:schedule_update called, delay=30
+2025-05-02 21:09:40,768 DEBUG:Scheduled update with after_id=after#1
+2025-05-02 21:09:40,811 DEBUG:update called
+2025-05-02 21:09:40,829 DEBUG:Frame updated on canvas
+2025-05-02 21:09:40,829 DEBUG:schedule_update called, delay=30
+2025-05-02 21:09:40,829 DEBUG:Scheduled update with after_id=after#2
+2025-05-02 21:09:40,873 DEBUG:update called
+2025-05-02 21:09:40,880 DEBUG:Frame updated on canvas
+2025-05-02 21:09:40,881 DEBUG:schedule_update called, delay=30
+2025-05-02 21:09:40,881 DEBUG:Scheduled update with after_id=after#3
+2025-05-02 21:09:40,919 DEBUG:update called
+2025-05-02 21:09:40,929 DEBUG:Frame updated on canvas
+2025-05-02 21:09:40,929 DEBUG:schedule_update called, delay=30
+2025-05-02 21:09:40,929 DEBUG:Scheduled update with after_id=after#4
+2025-05-02 21:09:40,964 DEBUG:update called
+2025-05-02 21:09:40,973 DEBUG:Frame updated on canvas
+2025-05-02 21:09:40,973 DEBUG:schedule_update called, delay=30
+2025-05-02 21:09:40,973 DEBUG:Scheduled update with after_id=after#5
+2025-05-02 21:09:41,011 DEBUG:update called
+2025-05-02 21:09:41,020 DEBUG:Frame updated on canvas
+2025-05-02 21:09:41,020 DEBUG:schedule_update called, delay=30
+2025-05-02 21:09:41,021 DEBUG:Scheduled update with after_id=after#6
+2025-05-02 21:09:41,057 DEBUG:update called
+2025-05-02 21:09:41,066 DEBUG:Frame updated on canvas
+2025-05-02 21:09:41,068 DEBUG:schedule_update called, delay=30
+2025-05-02 21:09:41,068 DEBUG:Scheduled update with after_id=after#7
+2025-05-02 21:09:41,103 DEBUG:update called
+2025-05-02 21:09:41,112 DEBUG:Frame updated on canvas
+2025-05-02 21:09:41,112 DEBUG:schedule_update called, delay=30
+2025-05-02 21:09:41,112 DEBUG:Scheduled update with after_id=after#8
+2025-05-02 21:09:41,147 DEBUG:update called
+2025-05-02 21:09:41,167 DEBUG:Frame updated on canvas
+2025-05-02 21:09:41,167 DEBUG:schedule_update called, delay=30
+2025-05-02 21:09:41,167 DEBUG:Scheduled update with after_id=after#9
+2025-05-02 21:09:41,209 DEBUG:update called
+2025-05-02 21:09:41,219 DEBUG:Frame updated on canvas
+2025-05-02 21:09:41,219 DEBUG:schedule_update called, delay=30
+2025-05-02 21:09:41,219 DEBUG:Scheduled update with after_id=after#10
+2025-05-02 21:09:41,255 DEBUG:update called
+2025-05-02 21:09:41,265 DEBUG:Frame updated on canvas
+2025-05-02 21:09:41,266 DEBUG:schedule_update called, delay=30
+2025-05-02 21:09:41,266 DEBUG:Scheduled update with after_id=after#11
+2025-05-02 21:09:41,301 DEBUG:update called
+2025-05-02 21:09:41,312 DEBUG:Frame updated on canvas
+2025-05-02 21:09:41,312 DEBUG:schedule_update called, delay=30
+2025-05-02 21:09:41,312 DEBUG:Scheduled update with after_id=after#12
+2025-05-02 21:09:41,346 DEBUG:update called
+2025-05-02 21:09:41,356 DEBUG:Frame updated on canvas
+2025-05-02 21:09:41,356 DEBUG:schedule_update called, delay=30
+2025-05-02 21:09:41,356 DEBUG:Scheduled update with after_id=after#13
+2025-05-02 21:09:41,393 DEBUG:update called
+2025-05-02 21:09:41,404 DEBUG:Frame updated on canvas
+2025-05-02 21:09:41,404 DEBUG:schedule_update called, delay=30
+2025-05-02 21:09:41,404 DEBUG:Scheduled update with after_id=after#14
+2025-05-02 21:09:41,438 DEBUG:update called
+2025-05-02 21:09:41,446 DEBUG:Frame updated on canvas
+2025-05-02 21:09:41,446 DEBUG:schedule_update called, delay=30
+2025-05-02 21:09:41,446 DEBUG:Scheduled update with after_id=after#15
+2025-05-02 21:09:41,484 DEBUG:update called
+2025-05-02 21:09:41,494 DEBUG:Frame updated on canvas
+2025-05-02 21:09:41,494 DEBUG:schedule_update called, delay=30
+2025-05-02 21:09:41,494 DEBUG:Scheduled update with after_id=after#16
+2025-05-02 21:09:41,530 DEBUG:update called
+2025-05-02 21:09:41,538 DEBUG:Frame updated on canvas
+2025-05-02 21:09:41,538 DEBUG:schedule_update called, delay=30
+2025-05-02 21:09:41,538 DEBUG:Scheduled update with after_id=after#17
+2025-05-02 21:09:41,577 DEBUG:update called
+2025-05-02 21:09:41,585 DEBUG:Frame updated on canvas
+2025-05-02 21:09:41,585 DEBUG:schedule_update called, delay=30
+2025-05-02 21:09:41,585 DEBUG:Scheduled update with after_id=after#18
+2025-05-02 21:09:41,624 DEBUG:update called
+2025-05-02 21:09:41,633 DEBUG:Frame updated on canvas
+2025-05-02 21:09:41,633 DEBUG:schedule_update called, delay=30
+2025-05-02 21:09:41,633 DEBUG:Scheduled update with after_id=after#19
+2025-05-02 21:09:41,670 DEBUG:update called
+2025-05-02 21:09:41,681 DEBUG:Frame updated on canvas
+2025-05-02 21:09:41,681 DEBUG:schedule_update called, delay=30
+2025-05-02 21:09:41,681 DEBUG:Scheduled update with after_id=after#20
+2025-05-02 21:09:41,716 DEBUG:update called
+2025-05-02 21:09:41,725 DEBUG:Frame updated on canvas
+2025-05-02 21:09:41,725 DEBUG:schedule_update called, delay=30
+2025-05-02 21:09:41,725 DEBUG:Scheduled update with after_id=after#21
+2025-05-02 21:09:41,760 DEBUG:update called
+2025-05-02 21:09:41,791 DEBUG:Frame updated on canvas
+2025-05-02 21:09:41,791 DEBUG:schedule_update called, delay=30
+2025-05-02 21:09:41,791 DEBUG:Scheduled update with after_id=after#22
+2025-05-02 21:09:41,821 DEBUG:update called
+2025-05-02 21:09:41,832 DEBUG:Frame updated on canvas
+2025-05-02 21:09:41,832 DEBUG:schedule_update called, delay=30
+2025-05-02 21:09:41,832 DEBUG:Scheduled update with after_id=after#23
+2025-05-02 21:09:41,867 DEBUG:update called
+2025-05-02 21:09:41,877 DEBUG:Frame updated on canvas
+2025-05-02 21:09:41,877 DEBUG:schedule_update called, delay=30
+2025-05-02 21:09:41,878 DEBUG:Scheduled update with after_id=after#24
+2025-05-02 21:09:41,913 DEBUG:update called
+2025-05-02 21:09:41,923 DEBUG:Frame updated on canvas
+2025-05-02 21:09:41,923 DEBUG:schedule_update called, delay=30
+2025-05-02 21:09:41,923 DEBUG:Scheduled update with after_id=after#25
+2025-05-02 21:09:41,959 DEBUG:update called
+2025-05-02 21:09:41,968 DEBUG:Frame updated on canvas
+2025-05-02 21:09:41,968 DEBUG:schedule_update called, delay=30
+2025-05-02 21:09:41,968 DEBUG:Scheduled update with after_id=after#26
+2025-05-02 21:09:42,006 DEBUG:update called
+2025-05-02 21:09:42,016 DEBUG:Frame updated on canvas
+2025-05-02 21:09:42,016 DEBUG:schedule_update called, delay=30
+2025-05-02 21:09:42,016 DEBUG:Scheduled update with after_id=after#27
+2025-05-02 21:09:42,052 DEBUG:update called
+2025-05-02 21:09:42,061 DEBUG:Frame updated on canvas
+2025-05-02 21:09:42,061 DEBUG:schedule_update called, delay=30
+2025-05-02 21:09:42,061 DEBUG:Scheduled update with after_id=after#28
+2025-05-02 21:09:42,092 DEBUG:update called
+2025-05-02 21:09:42,102 DEBUG:Frame updated on canvas
+2025-05-02 21:09:42,102 DEBUG:schedule_update called, delay=30
+2025-05-02 21:09:42,102 DEBUG:Scheduled update with after_id=after#29
+2025-05-02 21:09:42,132 DEBUG:update called
+2025-05-02 21:09:42,142 DEBUG:Frame updated on canvas
+2025-05-02 21:09:42,143 DEBUG:schedule_update called, delay=30
+2025-05-02 21:09:42,143 DEBUG:Scheduled update with after_id=after#30
+2025-05-02 21:09:42,175 DEBUG:update called
+2025-05-02 21:09:42,191 DEBUG:Frame updated on canvas
+2025-05-02 21:09:42,191 DEBUG:schedule_update called, delay=30
+2025-05-02 21:09:42,191 DEBUG:Scheduled update with after_id=after#31
+2025-05-02 21:09:42,222 DEBUG:update called
+2025-05-02 21:09:42,231 DEBUG:Frame updated on canvas
+2025-05-02 21:09:42,231 DEBUG:schedule_update called, delay=30
+2025-05-02 21:09:42,231 DEBUG:Scheduled update with after_id=after#32
+2025-05-02 21:09:42,269 DEBUG:update called
+2025-05-02 21:09:42,278 DEBUG:Frame updated on canvas
+2025-05-02 21:09:42,278 DEBUG:schedule_update called, delay=30
+2025-05-02 21:09:42,278 DEBUG:Scheduled update with after_id=after#33
+2025-05-02 21:09:42,315 DEBUG:update called
+2025-05-02 21:09:42,323 DEBUG:Frame updated on canvas
+2025-05-02 21:09:42,323 DEBUG:schedule_update called, delay=30
+2025-05-02 21:09:42,323 DEBUG:Scheduled update with after_id=after#34
+2025-05-02 21:09:42,354 DEBUG:update called
+2025-05-02 21:09:42,364 DEBUG:Frame updated on canvas
+2025-05-02 21:09:42,364 DEBUG:schedule_update called, delay=30
+2025-05-02 21:09:42,364 DEBUG:Scheduled update with after_id=after#35
+2025-05-02 21:09:42,395 DEBUG:update called
+2025-05-02 21:09:42,407 DEBUG:Frame updated on canvas
+2025-05-02 21:09:42,407 DEBUG:schedule_update called, delay=30
+2025-05-02 21:09:42,407 DEBUG:Scheduled update with after_id=after#36
+2025-05-02 21:09:42,437 DEBUG:update called
+2025-05-02 21:09:42,447 DEBUG:Frame updated on canvas
+2025-05-02 21:09:42,447 DEBUG:schedule_update called, delay=30
+2025-05-02 21:09:42,447 DEBUG:Scheduled update with after_id=after#37
+2025-05-02 21:09:42,482 DEBUG:update called
+2025-05-02 21:09:42,490 DEBUG:Frame updated on canvas
+2025-05-02 21:09:42,490 DEBUG:schedule_update called, delay=30
+2025-05-02 21:09:42,491 DEBUG:Scheduled update with after_id=after#38
+2025-05-02 21:09:42,527 DEBUG:update called
+2025-05-02 21:09:42,538 DEBUG:Frame updated on canvas
+2025-05-02 21:09:42,539 DEBUG:schedule_update called, delay=30
+2025-05-02 21:09:42,539 DEBUG:Scheduled update with after_id=after#39
+2025-05-02 21:09:42,573 DEBUG:update called
+2025-05-02 21:09:42,581 DEBUG:Frame updated on canvas
+2025-05-02 21:09:42,581 DEBUG:schedule_update called, delay=30
+2025-05-02 21:09:42,581 DEBUG:Scheduled update with after_id=after#40
+2025-05-02 21:09:42,619 DEBUG:update called
+2025-05-02 21:09:42,630 DEBUG:Frame updated on canvas
+2025-05-02 21:09:42,630 DEBUG:schedule_update called, delay=30
+2025-05-02 21:09:42,630 DEBUG:Scheduled update with after_id=after#41
+2025-05-02 21:09:42,665 DEBUG:update called
+2025-05-02 21:09:42,674 DEBUG:Frame updated on canvas
+2025-05-02 21:09:42,674 DEBUG:schedule_update called, delay=30
+2025-05-02 21:09:42,674 DEBUG:Scheduled update with after_id=after#42
+2025-05-02 21:09:42,711 DEBUG:update called
+2025-05-02 21:09:42,720 DEBUG:Frame updated on canvas
+2025-05-02 21:09:42,720 DEBUG:schedule_update called, delay=30
+2025-05-02 21:09:42,720 DEBUG:Scheduled update with after_id=after#43
+2025-05-02 21:09:42,724 INFO:on_closing called
+2025-05-02 21:09:42,724 DEBUG:Cancelling after_id=after#43
+2025-05-02 21:09:42,725 INFO:Closing landmarker
+2025-05-02 21:09:42,727 INFO:Releasing video capture
+2025-05-02 21:09:42,995 INFO:Quitting mainloop
+2025-05-02 21:09:42,995 DEBUG:start_move at (622,17)
+2025-05-02 21:09:42,995 INFO:Exited mainloop
+2025-05-04 08:24:59 [INFO] Starting calibration for monitor 0
+2025-05-04 08:25:44 [INFO] Calibration completed for monitor 0
+2025-05-04 08:35:57 [INFO] Starting calibration for monitor 0
+2025-05-04 08:36:49 [INFO] Calibration completed for monitor 0
+2025-05-04 08:44:22 [INFO] Starting calibration for monitor 0
+2025-05-04 16:30:42 [INFO] Starting calibration for monitor 1
+2025-05-04 16:31:16 [INFO] Calibration completed for monitor 1
+2025-05-04 16:31:16 [INFO] Starting calibration for monitor 1
+2025-05-04 16:31:53 [INFO] Calibration completed for monitor 1
+2025-05-04 16:33:01 [INFO] Starting calibration for monitor 0
+2025-05-04 16:33:30 [INFO] Calibration completed for monitor 0
+2025-05-04 16:33:30 [INFO] Starting calibration for monitor 0
+2025-05-04 16:34:05 [INFO] Calibration completed for monitor 0
+2025-05-04 16:34:18 [INFO] Starting calibration for monitor 1
+2025-05-04 16:34:51 [INFO] Calibration completed for monitor 1
+2025-06-01 14:44:04 [INFO] Start calibration for monitor 0
+2025-06-01 14:44:04 [ERROR] Calibration failed for monitor 0: name 'calibrate_monitor' is not defined
+2025-06-01 14:44:15 [INFO] Start calibration for monitor 0
+2025-06-01 14:44:15 [ERROR] Calibration failed for monitor 0: name 'calibrate_monitor' is not defined
+2025-06-01 14:44:23 [INFO] Start calibration for monitor 0
+2025-06-01 14:44:23 [ERROR] Calibration failed for monitor 0: name 'calibrate_monitor' is not defined
+2025-06-01 14:44:24 [INFO] Start calibration for monitor 1
+2025-06-01 14:44:24 [ERROR] Calibration failed for monitor 1: name 'calibrate_monitor' is not defined
+2025-06-01 14:44:36 [INFO] Start calibration for monitor 0
+2025-06-01 14:44:36 [ERROR] Calibration failed for monitor 0: name 'calibrate_monitor' is not defined
+2025-06-01 14:44:36 [INFO] Start calibration for monitor 0
+2025-06-01 14:44:36 [ERROR] Calibration failed for monitor 0: name 'calibrate_monitor' is not defined
+2025-06-01 14:44:36 [INFO] Start calibration for monitor 0
+2025-06-01 14:44:36 [ERROR] Calibration failed for monitor 0: name 'calibrate_monitor' is not defined
+2025-06-01 14:44:37 [INFO] Start calibration for monitor 0
+2025-06-01 14:44:37 [ERROR] Calibration failed for monitor 0: name 'calibrate_monitor' is not defined
+2025-06-01 14:44:37 [INFO] Start calibration for monitor 0
+2025-06-01 14:44:37 [ERROR] Calibration failed for monitor 0: name 'calibrate_monitor' is not defined
+2025-06-01 14:44:37 [INFO] Start calibration for monitor 0
+2025-06-01 14:44:37 [ERROR] Calibration failed for monitor 0: name 'calibrate_monitor' is not defined
+2025-06-01 14:44:38 [INFO] Start calibration for monitor 0
+2025-06-01 14:44:38 [ERROR] Calibration failed for monitor 0: name 'calibrate_monitor' is not defined
+2025-06-01 14:44:38 [INFO] Start calibration for monitor 0
+2025-06-01 14:44:38 [ERROR] Calibration failed for monitor 0: name 'calibrate_monitor' is not defined
+2025-06-01 14:44:38 [INFO] Start calibration for monitor 0
+2025-06-01 14:44:38 [ERROR] Calibration failed for monitor 0: name 'calibrate_monitor' is not defined
+2025-06-01 14:44:38 [INFO] Start calibration for monitor 0
+2025-06-01 14:44:38 [ERROR] Calibration failed for monitor 0: name 'calibrate_monitor' is not defined
+2025-06-01 14:44:39 [INFO] Start calibration for monitor 0
+2025-06-01 14:44:39 [ERROR] Calibration failed for monitor 0: name 'calibrate_monitor' is not defined
+2025-06-01 14:44:40 [INFO] Start calibration for monitor 1
+2025-06-01 14:44:40 [ERROR] Calibration failed for monitor 1: name 'calibrate_monitor' is not defined

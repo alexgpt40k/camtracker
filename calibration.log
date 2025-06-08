@@ -1,0 +1,275 @@
+2025-05-18 19:22:23 [INFO] Starting calibration for monitor 0
+2025-05-18 19:22:23 [INFO] Calibration started for monitor 0
+2025-05-18 19:23:03 [INFO] Corner lt: yaw=-4.40, pitch=84.29
+2025-05-18 19:23:10 [INFO] Corner rt: yaw=4.58, pitch=84.30
+2025-05-18 19:23:22 [INFO] Corner rb: yaw=5.61, pitch=84.43
+2025-05-18 19:23:28 [INFO] Corner lb: yaw=-1.38, pitch=84.59
+2025-05-18 19:23:28 [INFO] Calibration saved to calibration_monitor_0.json
+2025-05-18 19:23:28 [INFO] Calibration completed for monitor 0
+2025-05-18 19:38:34 [INFO] Starting calibration for monitor 0
+2025-05-18 19:38:34 [INFO] Calibration started for monitor 0
+2025-05-18 19:38:34 [ERROR] Calibration failed for monitor 0: can't set fullscreen attribute for ".": override-redirect flag is set
+2025-05-18 19:39:14 [INFO] Starting calibration for monitor 1
+2025-05-18 19:39:14 [INFO] Calibration started for monitor 1
+2025-05-18 19:39:14 [ERROR] Calibration failed for monitor 1: can't set fullscreen attribute for ".": override-redirect flag is set
+2025-05-18 19:48:59 [INFO] Starting calibration for monitor 0
+2025-05-18 19:48:59 [INFO] Calibration started for monitor 0
+2025-05-18 19:48:59 [ERROR] Calibration failed for monitor 0: can't set fullscreen attribute for ".": override-redirect flag is set
+2025-05-18 19:52:15 [INFO] Starting calibration for monitor 0
+2025-05-18 19:52:15 [INFO] Calibration started for monitor 0
+2025-05-18 19:52:15 [ERROR] Calibration failed for monitor 0: can't set fullscreen attribute for ".": override-redirect flag is set
+2025-05-18 19:52:39 [INFO] Starting calibration for monitor 1
+2025-05-18 19:52:39 [INFO] Calibration started for monitor 1
+2025-05-18 19:52:39 [ERROR] Calibration failed for monitor 1: can't set fullscreen attribute for ".": override-redirect flag is set
+2025-05-18 19:52:42 [INFO] Starting calibration for monitor 0
+2025-05-18 19:52:42 [INFO] Calibration started for monitor 0
+2025-05-18 19:52:42 [ERROR] Calibration failed for monitor 0: can't set fullscreen attribute for ".": override-redirect flag is set
+2025-05-18 19:54:53 [INFO] Starting calibration for monitor 0
+2025-05-18 19:54:53 [INFO] Calibration started for monitor 0
+2025-05-18 19:54:53 [ERROR] Calibration failed for monitor 0: can't set fullscreen attribute for ".": override-redirect flag is set
+2025-05-18 19:59:13 [INFO] Starting calibration for monitor 0
+2025-05-18 19:59:13 [INFO] Calibration started for monitor 0
+2025-05-18 19:59:13 [ERROR] Calibration failed for monitor 0: can't set fullscreen attribute for ".": override-redirect flag is set
+2025-05-18 20:10:59 [INFO] Starting calibration for monitor 0
+2025-05-18 20:10:59 [ERROR] Calibration failed for monitor 0: calibrate_monitor() missing 3 required positional arguments: 'monitor_id', 'canvas', and 'img_id'
+2025-05-18 20:11:06 [INFO] Starting calibration for monitor 0
+2025-05-18 20:11:06 [ERROR] Calibration failed for monitor 0: calibrate_monitor() missing 3 required positional arguments: 'monitor_id', 'canvas', and 'img_id'
+2025-05-18 20:11:15 [INFO] Starting calibration for monitor 1
+2025-05-18 20:11:15 [ERROR] Calibration failed for monitor 1: calibrate_monitor() missing 3 required positional arguments: 'monitor_id', 'canvas', and 'img_id'
+2025-05-18 20:11:16 [INFO] Starting calibration for monitor 0
+2025-05-18 20:11:16 [ERROR] Calibration failed for monitor 0: calibrate_monitor() missing 3 required positional arguments: 'monitor_id', 'canvas', and 'img_id'
+2025-05-18 20:11:16 [INFO] Starting calibration for monitor 0
+2025-05-18 20:11:16 [ERROR] Calibration failed for monitor 0: calibrate_monitor() missing 3 required positional arguments: 'monitor_id', 'canvas', and 'img_id'
+2025-05-18 20:11:17 [INFO] Starting calibration for monitor 0
+2025-05-18 20:11:17 [ERROR] Calibration failed for monitor 0: calibrate_monitor() missing 3 required positional arguments: 'monitor_id', 'canvas', and 'img_id'
+2025-05-18 20:11:17 [INFO] Starting calibration for monitor 0
+2025-05-18 20:11:17 [ERROR] Calibration failed for monitor 0: calibrate_monitor() missing 3 required positional arguments: 'monitor_id', 'canvas', and 'img_id'
+2025-05-18 20:11:18 [INFO] Starting calibration for monitor 0
+2025-05-18 20:11:18 [ERROR] Calibration failed for monitor 0: calibrate_monitor() missing 3 required positional arguments: 'monitor_id', 'canvas', and 'img_id'
+2025-05-18 20:11:19 [INFO] Starting calibration for monitor 0
+2025-05-18 20:11:19 [ERROR] Calibration failed for monitor 0: calibrate_monitor() missing 3 required positional arguments: 'monitor_id', 'canvas', and 'img_id'
+2025-05-18 20:11:19 [INFO] Starting calibration for monitor 0
+2025-05-18 20:11:19 [ERROR] Calibration failed for monitor 0: calibrate_monitor() missing 3 required positional arguments: 'monitor_id', 'canvas', and 'img_id'
+2025-05-18 20:11:19 [INFO] Starting calibration for monitor 0
+2025-05-18 20:11:19 [ERROR] Calibration failed for monitor 0: calibrate_monitor() missing 3 required positional arguments: 'monitor_id', 'canvas', and 'img_id'
+2025-05-18 20:11:29 [INFO] Starting calibration for monitor 0
+2025-05-18 20:11:29 [ERROR] Calibration failed for monitor 0: calibrate_monitor() missing 3 required positional arguments: 'monitor_id', 'canvas', and 'img_id'
+2025-05-18 20:26:34 [INFO] Starting calibration for monitor 0
+2025-05-18 20:26:34 [ERROR] Calibration failed for monitor 0: calibrate_monitor() missing 3 required positional arguments: 'monitor_id', 'canvas', and 'img_id'
+2025-05-18 20:26:43 [INFO] Starting calibration for monitor 1
+2025-05-18 20:26:43 [ERROR] Calibration failed for monitor 1: calibrate_monitor() missing 3 required positional arguments: 'monitor_id', 'canvas', and 'img_id'
+2025-05-18 20:43:21 [INFO] Starting calibration for monitor 0
+2025-05-18 20:43:21 [ERROR] Calibration failed for monitor 0: calibrate_monitor() missing 3 required positional arguments: 'monitor_id', 'canvas', and 'img_id'
+2025-05-18 20:43:35 [INFO] Starting calibration for monitor 0
+2025-05-18 20:43:35 [ERROR] Calibration failed for monitor 0: calibrate_monitor() missing 3 required positional arguments: 'monitor_id', 'canvas', and 'img_id'
+2025-05-18 20:43:37 [INFO] Starting calibration for monitor 1
+2025-05-18 20:43:37 [ERROR] Calibration failed for monitor 1: calibrate_monitor() missing 3 required positional arguments: 'monitor_id', 'canvas', and 'img_id'
+2025-05-18 20:43:37 [INFO] Starting calibration for monitor 0
+2025-05-18 20:43:37 [ERROR] Calibration failed for monitor 0: calibrate_monitor() missing 3 required positional arguments: 'monitor_id', 'canvas', and 'img_id'
+2025-05-18 20:48:08 [INFO] Starting calibration for monitor 0
+2025-05-18 20:48:08 [INFO] Calibration started for monitor 0
+2025-05-18 20:48:18 [ERROR] Calibration failed for monitor 0: name 'ImageTk' is not defined
+2025-05-18 20:54:37 [INFO] Starting calibration for monitor 0
+2025-05-18 20:54:37 [INFO] Calibration started for monitor 0
+2025-05-18 20:54:48 [ERROR] Calibration failed for monitor 0: name 'ImageTk' is not defined
+2025-05-18 20:57:14 [INFO] Starting calibration for monitor 0
+2025-05-18 20:57:14 [INFO] Calibration started for monitor 0
+2025-05-18 20:57:24 [ERROR] Calibration failed for monitor 0: name 'ImageTk' is not defined
+2025-05-18 20:57:32 [INFO] Starting calibration for monitor 0
+2025-05-18 20:57:32 [INFO] Calibration started for monitor 0
+2025-05-18 20:57:42 [ERROR] Calibration failed for monitor 0: name 'ImageTk' is not defined
+2025-05-18 21:06:00 [INFO] Starting calibration for monitor 0
+2025-05-18 21:06:00 [INFO] Calibration started for monitor 0
+2025-05-18 21:23:13 [INFO] Starting calibration for monitor 0
+2025-05-18 21:23:13 [INFO] Calibration started for monitor 0
+2025-05-18 21:26:16 [INFO] Starting calibration for monitor 0
+2025-05-18 21:26:16 [INFO] Calibration started for monitor 0
+2025-05-18 21:32:25 [INFO] Starting calibration for monitor 0
+2025-05-18 21:32:25 [INFO] Calibration started for monitor 0
+2025-05-18 21:32:58 [INFO] Starting calibration for monitor 0
+2025-05-18 21:32:58 [INFO] Calibration started for monitor 0
+2025-05-18 21:41:19 [INFO] Starting calibration for monitor 0
+2025-05-18 21:41:19 [INFO] Calibration started for monitor 0
+2025-05-18 21:59:50 [INFO] Starting calibration for monitor 0
+2025-05-18 21:59:50 [INFO] Calibration started for monitor 0
+2025-05-18 22:00:05 [INFO] Starting calibration for monitor 0
+2025-05-18 22:00:05 [INFO] Calibration started for monitor 0
+2025-05-19 08:10:38 [INFO] Starting calibration for monitor 0
+2025-05-19 08:10:38 [INFO] Calibration started for monitor 0
+2025-05-19 08:25:42 [INFO] Starting calibration for monitor 0
+2025-05-19 08:25:42 [INFO] Calibration started for monitor 0
+2025-05-19 08:25:53 [ERROR] Calibration failed for monitor 0: name 'np' is not defined
+2025-05-19 08:41:05 [INFO] Starting calibration for monitor 0
+2025-05-19 08:41:05 [INFO] Calibration started for monitor 0
+2025-05-19 08:41:16 [ERROR] Calibration failed for monitor 0: name 'np' is not defined
+2025-05-19 08:48:36 [INFO] Starting calibration for monitor 0
+2025-05-19 08:48:36 [INFO] Calibration started for monitor 0
+2025-05-19 08:49:08 [INFO] lt: yaw=6.87 pitch=84.38
+2025-05-19 08:49:13 [INFO] rt: yaw=-5.78 pitch=84.51
+2025-05-19 08:49:19 [INFO] rb: yaw=-7.06 pitch=84.61
+2025-05-19 08:49:22 [INFO] lb: yaw=1.63 pitch=84.42
+2025-05-19 08:49:22 [INFO] Calibration saved to calibration_monitor_0.json
+2025-05-19 08:49:22 [INFO] Calibration completed for monitor 0
+2025-05-19 10:48:52 [INFO] Starting calibration for monitor 0
+2025-05-19 10:48:52 [INFO] Calibration started for monitor 0
+2025-05-19 10:49:15 [INFO] lt: yaw=10.67 pitch=84.93
+2025-05-19 10:49:19 [INFO] rt: yaw=-4.52 pitch=85.27
+2025-05-19 10:49:22 [INFO] rb: yaw=-4.38 pitch=85.45
+2025-05-19 10:49:25 [INFO] lb: yaw=6.08 pitch=85.19
+2025-05-19 10:49:25 [INFO] Calibration saved to calibration_monitor_0.json
+2025-05-19 10:49:25 [INFO] Calibration completed for monitor 0
+2025-05-19 11:12:27 [INFO] Starting calibration for monitor 0
+2025-05-19 11:12:27 [INFO] Calibration started for monitor 0
+2025-05-19 11:12:53 [INFO] lt: yaw=5.51 pitch=85.27
+2025-05-19 11:12:57 [INFO] rt: yaw=-5.46 pitch=85.59
+2025-05-19 11:13:00 [INFO] rb: yaw=-5.50 pitch=85.59
+2025-05-19 11:13:03 [INFO] lb: yaw=4.62 pitch=85.45
+2025-05-19 11:13:03 [INFO] Calibration saved to calibration_monitor_0.json
+2025-05-19 11:13:03 [INFO] Calibration completed for monitor 0
+2025-05-19 11:19:03 [INFO] Starting calibration for monitor 0
+2025-05-19 11:19:03 [INFO] Calibration started for monitor 0
+2025-05-19 11:19:27 [INFO] lt: yaw=3.24 pitch=85.44
+2025-05-19 11:19:31 [INFO] rt: yaw=-5.70 pitch=85.57
+2025-05-19 11:19:35 [INFO] rb: yaw=-6.14 pitch=85.57
+2025-05-19 11:19:38 [INFO] lb: yaw=0.40 pitch=85.59
+2025-05-19 11:19:38 [INFO] Calibration saved to calibration_monitor_0.json
+2025-05-19 11:19:38 [INFO] Calibration completed for monitor 0
+2025-05-19 11:28:23 [INFO] Starting calibration for monitor 0
+2025-05-19 11:28:23 [INFO] Calibration started for monitor 0
+2025-05-19 11:28:39 [INFO] lt: yaw=9.77 pitch=85.82
+2025-05-19 11:28:42 [INFO] rt: yaw=-4.29 pitch=86.03
+2025-05-19 11:28:46 [INFO] rb: yaw=-5.71 pitch=86.15
+2025-05-19 11:28:50 [INFO] lb: yaw=0.40 pitch=86.15
+2025-05-19 11:28:50 [INFO] Calibration saved to calibration_monitor_0.json
+2025-05-19 11:28:50 [INFO] Calibration completed for monitor 0
+2025-05-19 22:34:06 [INFO] Starting calibration for monitor 0
+2025-05-19 22:34:06 [INFO] Starting calibration for monitor 0
+2025-05-19 22:34:25 [INFO] Corner lt: yaw=-2.34, pitch=84.36
+2025-05-19 22:34:31 [INFO] Corner rt: yaw=1.93, pitch=84.13
+2025-05-19 22:34:33 [INFO] Corner rb: yaw=1.91, pitch=84.04
+2025-05-19 22:34:36 [INFO] Corner lb: yaw=-6.05, pitch=83.97
+2025-05-19 22:34:36 [INFO] Calibration saved to calibration_monitor_0.json
+2025-05-19 22:34:36 [INFO] Calibration completed for monitor 0
+2025-06-01 14:36:10 [INFO] Starting calibration for monitor 0
+2025-06-01 14:36:10 [INFO] Starting calibration for monitor 0
+2025-06-01 14:36:26 [INFO] Corner lt: yaw=-5.53, pitch=83.52
+2025-06-01 14:36:29 [INFO] Corner rt: yaw=4.01, pitch=83.55
+2025-06-01 14:36:32 [INFO] Corner rb: yaw=0.96, pitch=84.02
+2025-06-01 14:36:35 [INFO] Corner lb: yaw=-9.69, pitch=83.86
+2025-06-01 14:36:35 [INFO] Calibration saved to calibration_monitor_0.json
+2025-06-01 14:36:35 [INFO] Calibration completed for monitor 0
+2025-06-01 14:54:03 [INFO] Start calibration for monitor 0
+2025-06-01 14:54:03 [INFO] Starting calibration for monitor 0
+2025-06-01 14:54:19 [INFO] lt: yaw=-7.25, pitch=84.03
+2025-06-01 14:54:22 [INFO] rt: yaw=1.61, pitch=84.08
+2025-06-01 14:54:24 [INFO] rb: yaw=0.01, pitch=84.14
+2025-06-01 14:54:48 [INFO] lb: yaw=-6.06, pitch=84.31
+2025-06-01 14:54:48 [INFO] Calibration saved to calibration_monitor_0.json
+2025-06-01 14:54:48 [INFO] Calibration completed for monitor 0
+2025-06-01 16:09:13 [INFO] Start calibration for monitor 0
+2025-06-01 16:09:13 [INFO] Starting calibration for monitor 0
+2025-06-01 16:09:28 [INFO] Corner lt: yaw=-7.63, pitch=84.18
+2025-06-01 16:09:33 [INFO] Corner rt: yaw=1.60, pitch=84.01
+2025-06-01 16:09:36 [INFO] Corner rb: yaw=2.01, pitch=84.29
+2025-06-01 16:09:39 [INFO] Corner lb: yaw=-4.23, pitch=84.52
+2025-06-01 16:09:39 [INFO] Calibration saved to calibration_monitor_0.json
+2025-06-01 16:09:39 [INFO] Calibration completed for monitor 0
+2025-06-01 16:13:39 [INFO] Start calibration for monitor 0
+2025-06-01 16:13:39 [INFO] Starting calibration for monitor 0
+2025-06-01 16:14:13 [INFO] Corner lt: yaw=-7.46, pitch=82.98
+2025-06-01 16:14:15 [INFO] Corner rt: yaw=1.36, pitch=83.19
+2025-06-01 16:14:17 [INFO] Corner rb: yaw=-0.24, pitch=83.19
+2025-06-01 16:14:19 [INFO] Corner lb: yaw=-6.54, pitch=82.68
+2025-06-01 16:14:19 [INFO] Calibration saved to calibration_monitor_0.json
+2025-06-01 16:14:19 [INFO] Calibration completed for monitor 0
+2025-06-01 16:16:58 [INFO] Start calibration for monitor 0
+2025-06-01 16:16:58 [INFO] Starting calibration for monitor 0
+2025-06-01 16:17:33 [INFO] Corner lt: yaw=-7.86, pitch=83.57
+2025-06-01 16:17:36 [INFO] Corner rt: yaw=2.37, pitch=83.40
+2025-06-01 16:17:39 [INFO] Corner rb: yaw=1.17, pitch=83.85
+2025-06-01 16:17:41 [INFO] Corner lb: yaw=1.04, pitch=83.85
+2025-06-01 16:17:41 [INFO] Calibration saved to calibration_monitor_0.json
+2025-06-01 16:17:41 [INFO] Calibration completed for monitor 0
+2025-06-01 16:30:17 [INFO] Start calibration for monitor 0
+2025-06-01 16:30:17 [INFO] Starting calibration for monitor 0
+2025-06-01 16:30:51 [INFO] Start calibration for monitor 0
+2025-06-01 16:30:51 [INFO] Starting calibration for monitor 0
+2025-06-01 16:31:23 [INFO] Start calibration for monitor 0
+2025-06-01 16:31:23 [INFO] Starting calibration for monitor 0
+2025-06-01 16:31:56 [INFO] Corner lt: yaw=-11.07, pitch=83.06
+2025-06-01 16:31:59 [INFO] Corner rt: yaw=-0.31, pitch=83.09
+2025-06-01 16:32:00 [INFO] Corner rb: yaw=0.89, pitch=83.48
+2025-06-01 16:32:03 [INFO] Corner lb: yaw=-6.07, pitch=83.49
+2025-06-01 16:32:03 [INFO] Calibration saved to calibration_monitor_0.json
+2025-06-01 16:32:03 [INFO] Calibration completed for monitor 0
+2025-06-01 16:46:05 [INFO] Start calibration for monitor 0
+2025-06-01 16:46:05 [INFO] Starting calibration for monitor 0
+2025-06-01 16:46:39 [INFO] Corner lt: yaw=-10.43, pitch=83.06
+2025-06-01 16:46:41 [INFO] Corner rt: yaw=2.14, pitch=83.26
+2025-06-01 16:46:43 [INFO] Corner rb: yaw=1.69, pitch=83.48
+2025-06-01 16:46:45 [INFO] Corner lb: yaw=-5.06, pitch=83.54
+2025-06-01 16:46:45 [INFO] Calibration saved to calibration_monitor_0.json
+2025-06-01 16:46:45 [INFO] Calibration completed for monitor 0
+2025-06-01 17:45:09 [INFO] Start calibration for monitor 0
+2025-06-01 17:45:09 [INFO] Starting calibration for monitor 0
+2025-06-01 17:46:06 [INFO] Corner lt: yaw=-8.59, pitch=82.83
+2025-06-01 17:46:11 [INFO] Corner rt: yaw=-0.09, pitch=83.27
+2025-06-01 17:46:13 [INFO] Corner rb: yaw=-2.72, pitch=83.21
+2025-06-01 17:46:14 [INFO] Corner lb: yaw=-7.63, pitch=83.18
+2025-06-01 17:46:14 [INFO] Calibration saved to calibration_monitor_0.json
+2025-06-01 17:46:14 [INFO] Calibration completed for monitor 0
+2025-06-01 17:51:03 [INFO] Start calibration for monitor 1
+2025-06-01 17:51:03 [INFO] Starting calibration for monitor 1
+2025-06-01 17:51:36 [INFO] Corner lt: yaw=-5.45, pitch=82.50
+2025-06-01 17:51:40 [INFO] Corner rt: yaw=-0.20, pitch=83.31
+2025-06-01 17:51:42 [INFO] Corner rb: yaw=0.01, pitch=82.92
+2025-06-01 17:51:44 [INFO] Corner lb: yaw=-6.67, pitch=83.20
+2025-06-01 17:51:44 [INFO] Calibration saved to calibration_monitor_1.json
+2025-06-01 17:51:44 [INFO] Calibration completed for monitor 1
+2025-06-01 17:54:26 [INFO] Start calibration for monitor 1
+2025-06-01 17:54:26 [INFO] Starting calibration for monitor 1
+2025-06-01 17:54:55 [ERROR] Calibration failed for monitor 1: name 'put_unicode_text' is not defined
+2025-06-01 18:00:27 [INFO] Start calibration for monitor 1
+2025-06-01 18:00:27 [INFO] Starting calibration for monitor 1
+2025-06-01 18:01:07 [INFO] Corner lt: yaw=4.74, pitch=83.25
+2025-06-01 18:01:11 [INFO] Corner rt: yaw=14.58, pitch=82.57
+2025-06-01 18:01:14 [INFO] Corner rb: yaw=12.72, pitch=82.86
+2025-06-01 18:01:17 [INFO] Corner lb: yaw=2.72, pitch=83.37
+2025-06-01 18:01:17 [INFO] Calibration saved to calibration_monitor_1.json
+2025-06-01 18:01:17 [INFO] Calibration completed for monitor 1
+2025-06-01 18:12:00 [INFO] Start calibration for monitor 0
+2025-06-01 18:12:00 [INFO] Starting calibration for monitor 0
+2025-06-01 18:12:34 [INFO] Corner lt: yaw=-6.05, pitch=82.97
+2025-06-01 18:12:37 [INFO] Corner rt: yaw=-0.45, pitch=83.19
+2025-06-01 18:12:39 [INFO] Corner rb: yaw=-0.28, pitch=83.21
+2025-06-01 18:12:41 [INFO] Corner lb: yaw=-3.31, pitch=83.28
+2025-06-01 18:12:41 [INFO] Calibration saved to calibration_monitor_0.json
+2025-06-01 18:12:41 [INFO] Calibration completed for monitor 0
+2025-06-01 18:21:55 [INFO] Start calibration for monitor 0
+2025-06-01 18:21:55 [INFO] Starting calibration for monitor 0
+2025-06-01 18:22:27 [INFO] Start calibration for monitor 0
+2025-06-01 18:22:27 [INFO] Starting calibration for monitor 0
+2025-06-01 18:24:08 [INFO] Corner lt: yaw=-3.47, pitch=84.24
+2025-06-01 18:24:13 [INFO] Corner rt: yaw=3.20, pitch=84.00
+2025-06-01 18:24:17 [INFO] Corner rb: yaw=2.93, pitch=84.24
+2025-06-01 18:24:19 [INFO] Corner lb: yaw=-4.12, pitch=84.33
+2025-06-01 18:24:19 [INFO] Calibration saved to calibration_monitor_0.json
+2025-06-01 18:24:19 [INFO] Calibration completed for monitor 0
+2025-06-01 18:30:17 [INFO] Start calibration for monitor 0
+2025-06-01 18:30:17 [INFO] Starting calibration for monitor 0
+2025-06-01 18:30:49 [INFO] Corner lt: yaw=-9.17, pitch=83.40
+2025-06-01 18:30:51 [INFO] Corner rt: yaw=-2.22, pitch=83.40
+2025-06-01 18:30:54 [INFO] Corner rb: yaw=1.62, pitch=83.70
+2025-06-01 18:30:57 [INFO] Corner lb: yaw=-4.61, pitch=83.63
+2025-06-01 18:30:57 [INFO] Calibration saved to calibration_monitor_0.json
+2025-06-01 18:30:57 [INFO] Calibration completed for monitor 0
+2025-06-01 19:03:31 [INFO] Start calibration for monitor 0
+2025-06-01 19:03:31 [INFO] Starting calibration for monitor 0
+2025-06-01 19:05:19 [INFO] Start calibration for monitor 0
+2025-06-01 19:05:19 [INFO] Starting calibration for monitor 0
+2025-06-01 19:05:52 [INFO] Corner lt: yaw=-8.58, pitch=83.51
+2025-06-01 19:05:55 [INFO] Corner rt: yaw=3.62, pitch=84.08
+2025-06-01 19:05:57 [INFO] Corner rb: yaw=2.74, pitch=84.06
+2025-06-01 19:05:59 [INFO] Corner lb: yaw=-5.30, pitch=84.04
+2025-06-01 19:05:59 [INFO] Calibration saved to calibration_monitor_0.json
+2025-06-01 19:05:59 [INFO] Calibration completed for monitor 0
